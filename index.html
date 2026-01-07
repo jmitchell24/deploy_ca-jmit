@@ -1,0 +1,56 @@
+<!DOCTYPE HTML>
+
+
+
+
+<html>
+	<head>
+		<title>JMIT</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" type="text/css" href="/styles.css"/>
+	</head>
+	<body >
+
+            
+
+    
+
+    
+
+    <main> 
+        <article>
+            
+
+<p>JMIT</p>
+
+<div class="countdown">
+
+</div>
+
+<script>
+    const targetDate = new Date('2026-03-01');
+    const now = new Date();
+    const diffTime = targetDate - now;
+    const daysLeft = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
+
+    const countdownEl = document.querySelector('.countdown');
+    if (daysLeft > 0) {
+    countdownEl.textContent = `Launching in ${daysLeft} days`;
+    } else if (daysLeft === 0) {
+    countdownEl.textContent = 'Today is the day!';
+    } else {
+    countdownEl.textContent = `${Math.abs(daysLeft)} days ago`;
+    }
+</script>
+
+
+        </article>
+    </main>
+
+    <p>
+    Site Build Date: January 07, 2026 
+</p>
+
+	</body>
+</html>
