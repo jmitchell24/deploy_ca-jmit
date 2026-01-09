@@ -3,31 +3,53 @@
 
 
 
-<html>
+<html lang="en">
 	<head>
-		<title>JMIT</title>
-		<meta charset="utf-8" />
+        <meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" type="text/css" href="/styles.css"/>
+
+
+        <!-- #region title -->
+        
+        <!-- Production mode -->
+        <title>JMIT</title>
+        
+        <!-- #endregion title -->
+
+
+        <!-- #region Fonts -->
+        <link rel="preload" href="/fonts/Montserrat-Regular.ttf" as="font" type="font/ttf" crossorigin>
+        <link rel="preload" href="/fonts/CourierPrime-Regular.ttf" as="font" type="font/ttf" crossorigin>
+        <link rel="preload" href="/fonts/CrimsonPro-VariableFont_wght.ttf" as="font" type="font/ttf" crossorigin>
+        <!-- #endregion Fonts -->
+
+
+        <!-- #region Stylesheets -->
+        <link rel="preload" href="/styles.css" as="style" type="text/css"/>
+        <link rel="stylesheet" type="text/css" href="/styles.css"/>
+        <!-- #endregion Stylesheets -->
+
+        <!-- FOUC FIX -->
+        <style> html { visibility: hidden ;  } </style>
+
+        <!-- Early JS -->
+        <script is:inline type="text/javascript" src="/js/base-early.js"></script>
 	</head>
-	<body >
+	<body data-dark-mode="on">
 
-            
 
-    
 
-    
+        
+        
 
-    <main> 
-        <article>
-            
+        <main> 
+        
 
-<p>JMIT</p>
-
+<h1 id="jmit-services-consulting">JMIT - Services &amp; Consulting</h1>
 <div class="countdown">
-
 </div>
-
+<h1 id="contact">Contact</h1>
+<p>For more information, reach out to <a href="mailto:mail@jmit.ca">mail@jmit.ca</a></p>
 <script>
     const targetDate = new Date('2026-03-01');
     const now = new Date();
@@ -45,12 +67,12 @@
 </script>
 
 
-        </article>
-    </main>
+        </main>
 
-    <p>
-    Site Build Date: January 09, 2026 
-</p>
+        
 
+
+
+    <script type="text/javascript" src="/js/base-late.js"></script>
 	</body>
 </html>
