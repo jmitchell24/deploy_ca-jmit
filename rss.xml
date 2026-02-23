@@ -7,6 +7,54 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://jmit.ca/rss.xml" rel="self" type="application/rss+xml"/>
-      
+      <lastBuildDate>Mon, 23 Feb 2026 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Contact</title>
+          <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://jmit.ca/contact/</link>
+          <guid>https://jmit.ca/contact/</guid>
+          <description xml:base="https://jmit.ca/contact/">&lt;h2 id=&quot;get-in-touch&quot;&gt;Get in Touch&lt;&#x2F;h2&gt;
+&lt;p&gt;The fastest way to reach me is by email. I respond to all inquiries within 24 business hours.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Email:&lt;&#x2F;strong&gt; &lt;a href=&quot;mailto:mail@jmit.ca&quot;&gt;mail@jmit.ca&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;service-request-form&quot;&gt;Service Request Form&lt;&#x2F;h3&gt;
+&lt;p&gt;Have a specific issue or project in mind? Fill out the service request form and I’ll get back to you with next steps.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a rel=&quot;noopener external&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;forms.gle&#x2F;e3wh8SGG3Br95tDb6&quot;&gt;Service Request Form&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;find-me-online&quot;&gt;Find Me Online&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener external&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;jmit.ca&quot;&gt;Website&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener external&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.facebook.com&#x2F;profile.php?id=61588036981363&quot;&gt;Facebook&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;service-area&quot;&gt;Service Area&lt;&#x2F;h3&gt;
+&lt;p&gt;Remote support available anywhere in Ontario. In-home visits available in Haldimand &#x2F; Norfolk County.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;operating-hours&quot;&gt;Operating Hours&lt;&#x2F;h3&gt;
+&lt;p&gt;Monday to Friday, 9am–5pm EST&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>FAQ</title>
+          <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://jmit.ca/faq/</link>
+          <guid>https://jmit.ca/faq/</guid>
+          <description xml:base="https://jmit.ca/faq/">&lt;h2 id=&quot;common-questions&quot;&gt;Common Questions&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;how-does-remote-support-work&quot;&gt;How does remote support work?&lt;&#x2F;h3&gt;
+&lt;p&gt;I connect to your computer using secure remote access software. You can see everything I’m doing on your screen. Most issues can be resolved this way without anyone needing to leave their house.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;is-my-data-safe-during-remote-sessions&quot;&gt;Is my data safe during remote sessions?&lt;&#x2F;h3&gt;
+&lt;p&gt;Yes. I use industry-standard remote access tools. You can watch everything happening on screen, and you can disconnect the session at any time. I don’t store any of your personal data.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;what-if-my-problem-can-t-be-fixed-remotely&quot;&gt;What if my problem can’t be fixed remotely?&lt;&#x2F;h3&gt;
+&lt;p&gt;I offer in-home support in &lt;strong&gt;Haldimand&lt;&#x2F;strong&gt; and &lt;strong&gt;Norfolk&lt;&#x2F;strong&gt; County.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;how-do-i-pay&quot;&gt;How do I pay?&lt;&#x2F;h3&gt;
+&lt;p&gt;Interac e-Transfer for all invoiced work. Cash is also accepted for in-home visits.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;how-do-i-get-started&quot;&gt;How do I get started?&lt;&#x2F;h3&gt;
+&lt;p&gt;Fill out the service request form on this site, or email mail@jmit.ca. I’ll respond within 24 hours.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;what-are-your-hours&quot;&gt;What are your hours?&lt;&#x2F;h3&gt;
+&lt;p&gt;Monday to Friday, 9am–5pm. I respond to all inquiries within 24 business hours.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;do-you-work-on-macs&quot;&gt;Do you work on Macs?&lt;&#x2F;h3&gt;
+&lt;p&gt;My focus is Windows and Linux systems. If you have a Mac question, feel free to reach out — I may still be able to help.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;do-you-sell-computer-parts&quot;&gt;Do you sell computer parts?&lt;&#x2F;h3&gt;
+&lt;p&gt;For gaming rig builds, I help you choose the right parts for your budget and build the system for you. You purchase the parts directly (I can send you the links), or I can order them on your behalf.&lt;&#x2F;p&gt;
+</description>
+      </item>
     </channel>
 </rss>
