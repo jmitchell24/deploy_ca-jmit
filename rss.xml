@@ -37,23 +37,23 @@
           <author>Unknown</author>
           <link>https://jmit.ca/faq/</link>
           <guid>https://jmit.ca/faq/</guid>
-          <description xml:base="https://jmit.ca/faq/">&lt;h2 id=&quot;common-questions&quot;&gt;Common Questions&lt;&#x2F;h2&gt;
-&lt;h3 id=&quot;how-does-remote-support-work&quot;&gt;How does remote support work?&lt;&#x2F;h3&gt;
+          <description xml:base="https://jmit.ca/faq/">&lt;h2 id=&quot;common-questions-and-concerns&quot;&gt;Common Questions and Concerns&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;what-is-remote-support&quot;&gt;What is &lt;em&gt;Remote Support&lt;&#x2F;em&gt;?&lt;&#x2F;h3&gt;
 &lt;p&gt;I connect to your computer using secure remote access software. You can see everything I’m doing on your screen. Most issues can be resolved this way without anyone needing to leave their house.&lt;&#x2F;p&gt;
-&lt;h3 id=&quot;is-your-data-safe-during-remote-sessions&quot;&gt;Is your data safe during remote sessions?&lt;&#x2F;h3&gt;
-&lt;p&gt;Yes. I use industry-standard remote access tools. You can watch everything happening on screen, and you can disconnect the session at any time. I don’t store any of your personal data.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;securty-during-remote-sessions&quot;&gt;Securty during Remote Sessions&lt;&#x2F;h3&gt;
+&lt;p&gt;I use industry-standard remote access tools. You can watch everything happening on screen, and you can disconnect the session at any time. I &lt;em&gt;do not&lt;&#x2F;em&gt; store any of your personal data.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;what-if-your-problem-can-t-be-fixed-remotely&quot;&gt;What if your problem can’t be fixed remotely?&lt;&#x2F;h3&gt;
 &lt;p&gt;I offer in-home support in &lt;strong&gt;Haldimand&lt;&#x2F;strong&gt; and &lt;strong&gt;Norfolk&lt;&#x2F;strong&gt; County.&lt;&#x2F;p&gt;
-&lt;h3 id=&quot;how-i-accept-payments&quot;&gt;How I accept payments?&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;what-payments-do-i-accept&quot;&gt;What payments do I accept?&lt;&#x2F;h3&gt;
 &lt;p&gt;Interac e-Transfer for all invoiced work. Cash is also accepted for in-home visits.&lt;&#x2F;p&gt;
-&lt;h3 id=&quot;how-do-you-get-started&quot;&gt;How do you get started?&lt;&#x2F;h3&gt;
-&lt;p&gt;Fill out the &lt;a href=&quot;&#x2F;contact-form&#x2F;&quot;&gt;Service Request Form&lt;&#x2F;a&gt;, or email &lt;a href=&quot;mailto:mail@jmit.ca&quot;&gt;mail@jmit.ca&lt;&#x2F;a&gt;. I’ll respond within 24 hours.&lt;&#x2F;p&gt;
-&lt;h3 id=&quot;what-are-your-hours&quot;&gt;What are your hours?&lt;&#x2F;h3&gt;
-&lt;p&gt;Monday to Friday, 9am–5pm. I respond to all inquiries within 24 business hours.&lt;&#x2F;p&gt;
-&lt;h3 id=&quot;do-you-work-on-macs&quot;&gt;Do you work on Macs?&lt;&#x2F;h3&gt;
-&lt;p&gt;My focus is Windows and Linux systems. If you have a Mac question, feel free to reach out — I may still be able to help.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;do-i-work-on-macs-or-other-apple-products&quot;&gt;Do I work on Macs or other Apple products?&lt;&#x2F;h3&gt;
+&lt;p&gt;My focus is Windows and Linux systems. I have limited experience repairing and supporting Apple devices. If you have a Mac&#x2F;Apple related question, feel free to reach out — I may still be able to help.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;do-you-sell-computer-parts&quot;&gt;Do you sell computer parts?&lt;&#x2F;h3&gt;
-&lt;p&gt;For gaming rig builds, I help you choose the right parts for your budget and build the system for you. You purchase the parts directly (I can send you the links), or I can order them on your behalf.&lt;&#x2F;p&gt;
+&lt;p&gt;For custom builds, I help you choose the right parts for your budget and build the system for you. You purchase the parts directly (I can send you the links), or I can order them on your behalf.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;what-are-my-hours-of-operation&quot;&gt;What are my hours of operation?&lt;&#x2F;h3&gt;
+&lt;p&gt;Monday to Friday, 9am–5pm. I respond to all inquiries within 24 business hours.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;where-do-you-begin&quot;&gt;Where do you begin?&lt;&#x2F;h3&gt;
+&lt;p&gt;Fill out the &lt;a href=&quot;&#x2F;contact-form&#x2F;&quot;&gt;Service Request Form&lt;&#x2F;a&gt;, or email &lt;a href=&quot;mailto:mail@jmit.ca&quot;&gt;mail@jmit.ca&lt;&#x2F;a&gt;. I’ll respond within 24 hours.&lt;&#x2F;p&gt;
 </description>
       </item>
     </channel>
