@@ -7,7 +7,16 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://jmit.ca/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Mon, 23 Feb 2026 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Wed, 25 Feb 2026 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Downloads</title>
+          <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://jmit.ca/downloads/</link>
+          <guid>https://jmit.ca/downloads/</guid>
+          <description xml:base="https://jmit.ca/downloads/">&lt;p&gt;asdf&lt;&#x2F;p&gt;
+</description>
+      </item>
       <item>
           <title>Contact</title>
           <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
