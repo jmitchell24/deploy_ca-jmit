@@ -3,11 +3,102 @@
     <channel>
       <title>jmit.ca</title>
       <link>https://jmit.ca</link>
-      <description></description>
+      <description>jmit.ca, an IT services business operating in 
+Haldimand-Norfolk County, Ontario. 
+Services: non-commercial tech support, pc repairs, custom pc building. 
+</description>
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://jmit.ca/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Wed, 25 Feb 2026 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Fri, 27 Feb 2026 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Press</title>
+          <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://jmit.ca/press/</link>
+          <guid>https://jmit.ca/press/</guid>
+          <description xml:base="https://jmit.ca/press/">&lt;h2 id=&quot;press-kit&quot;&gt;Press Kit&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;short-bio&quot;&gt;Short Bio&lt;&#x2F;h3&gt;
+&lt;x-code-wrapper class=&quot;animate-on-hover&quot; data-raw-code=&quot;jmit.ca is a sole proprietorship IT services business 
+operating in Haldimand-Norfolk County, Ontario. 
+
+Founded by James Mitchell in 2026. 
+
+Services include:
+- non-commercial tech support, 
+- pc repairs
+- custom pc building&quot;&gt;
+
+    
+    
+    
+
+    
+    
+    
+
+    &lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;giallo-ln&quot;&gt; 1&lt;&#x2F;span&gt;&lt;span&gt;jmit.ca is a sole proprietorship IT services business &lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;giallo-ln&quot;&gt; 2&lt;&#x2F;span&gt;&lt;span&gt;operating in Haldimand-Norfolk County, Ontario. &lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;giallo-ln&quot;&gt; 3&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;giallo-ln&quot;&gt; 4&lt;&#x2F;span&gt;&lt;span&gt;Founded by James Mitchell in 2026. &lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;giallo-ln&quot;&gt; 5&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;giallo-ln&quot;&gt; 6&lt;&#x2F;span&gt;&lt;span&gt;Services include:&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;giallo-ln&quot;&gt; 7&lt;&#x2F;span&gt;&lt;span&gt;- non-commercial tech support, &lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;giallo-ln&quot;&gt; 8&lt;&#x2F;span&gt;&lt;span&gt;- pc repairs&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;giallo-ln&quot;&gt; 9&lt;&#x2F;span&gt;&lt;span&gt;- custom pc building&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+
+    
+    
+    &lt;x-code-footer&gt;
+        &lt;x-code-footer-lang&gt;&lt;&#x2F;x-code-footer-lang&gt;
+        &lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; width=&quot;32&quot; height=&quot;32&quot; class=&quot;svgicon&quot; fill=&quot;currentColor&quot; viewBox=&quot;0 0 256 256&quot;&gt;&lt;path d=&quot;M69.12,94.15,28.5,128l40.62,33.85a8,8,0,1,1-10.24,12.29l-48-40a8,8,0,0,1,0-12.29l48-40a8,8,0,0,1,10.24,12.3Zm176,27.7-48-40a8,8,0,1,0-10.24,12.3L227.5,128l-40.62,33.85a8,8,0,1,0,10.24,12.29l48-40a8,8,0,0,0,0-12.29ZM162.73,32.48a8,8,0,0,0-10.25,4.79l-64,176a8,8,0,0,0,4.79,10.26A8.14,8.14,0,0,0,96,224a8,8,0,0,0,7.52-5.27l64-176A8,8,0,0,0,162.73,32.48Z&quot;&gt;&lt;&#x2F;path&gt;&lt;&#x2F;svg&gt;
+        &lt;x-code-footer-chars&gt;&lt;&#x2F;x-code-footer-chars&gt;
+        &lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; width=&quot;32&quot; height=&quot;32&quot; class=&quot;svgicon&quot; fill=&quot;currentColor&quot; viewBox=&quot;0 0 256 256&quot;&gt;&lt;path d=&quot;M213.66,82.34l-56-56A8,8,0,0,0,152,24H56A16,16,0,0,0,40,40V216a16,16,0,0,0,16,16H200a16,16,0,0,0,16-16V88A8,8,0,0,0,213.66,82.34ZM160,51.31,188.69,80H160ZM200,216H56V40h88V88a8,8,0,0,0,8,8h48V216Zm-42.34-61.66a8,8,0,0,1,0,11.32l-24,24a8,8,0,0,1-11.32,0l-24-24a8,8,0,0,1,11.32-11.32L120,164.69V120a8,8,0,0,1,16,0v44.69l10.34-10.35A8,8,0,0,1,157.66,154.34Z&quot;&gt;&lt;&#x2F;path&gt;&lt;&#x2F;svg&gt;
+        &lt;x-code-footer-copy&gt;&lt;&#x2F;x-code-footer-copy&gt;
+    &lt;&#x2F;x-code-footer&gt;
+    
+&lt;&#x2F;x-code-wrapper&gt;
+
+&lt;h3 id=&quot;logo&quot;&gt;Logo&lt;&#x2F;h3&gt;
+&lt;p&gt;The JMIT logo is a circuit-board icon. Download the SVG below.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;favicon.svg&quot;&gt;Logo (SVG)&lt;&#x2F;a&gt; — white on transparent, suitable for dark backgrounds&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;!-- If you add additional logo variants (e.g. dark version, PNG exports), drop them in static&#x2F;files&#x2F; and link here: --&gt;
+&lt;!-- - [Logo dark (SVG)](&#x2F;files&#x2F;jmit-logo-dark.svg) --&gt;
+&lt;!-- - [Logo (PNG, 512px)](&#x2F;files&#x2F;jmit-logo-512.png) --&gt;
+&lt;h3 id=&quot;colours&quot;&gt;Colours&lt;&#x2F;h3&gt;
+&lt;x-table-wrapper&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Name&lt;&#x2F;th&gt;&lt;th&gt;Value&lt;&#x2F;th&gt;&lt;th&gt;Usage&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Primary (dark mode)&lt;&#x2F;td&gt;&lt;td&gt;&lt;code&gt;hsl(195, 35%, 45%)&lt;&#x2F;code&gt;&lt;&#x2F;td&gt;&lt;td&gt;Links, accents&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Primary light&lt;&#x2F;td&gt;&lt;td&gt;&lt;code&gt;hsl(195, 60%, 65%)&lt;&#x2F;code&gt;&lt;&#x2F;td&gt;&lt;td&gt;Highlights&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Background (dark)&lt;&#x2F;td&gt;&lt;td&gt;&lt;code&gt;hsl(210, 0%, 10%)&lt;&#x2F;code&gt;&lt;&#x2F;td&gt;&lt;td&gt;Page background&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Text (dark)&lt;&#x2F;td&gt;&lt;td&gt;&lt;code&gt;hsl(210, 0%, 75%)&lt;&#x2F;code&gt;&lt;&#x2F;td&gt;&lt;td&gt;Body text&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+
+&lt;&#x2F;x-table-wrapper&gt;&lt;h3 id=&quot;typography&quot;&gt;Typography&lt;&#x2F;h3&gt;
+&lt;x-table-wrapper&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Font&lt;&#x2F;th&gt;&lt;th&gt;Usage&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Montserrat&lt;&#x2F;td&gt;&lt;td&gt;Body text, UI&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Courier Prime&lt;&#x2F;td&gt;&lt;td&gt;Code, monospace elements&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Crimson Pro&lt;&#x2F;td&gt;&lt;td&gt;Serif accent text&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+
+&lt;&#x2F;x-table-wrapper&gt;&lt;h2 id=&quot;media-contact&quot;&gt;Media Contact&lt;&#x2F;h2&gt;
+&lt;p&gt;For press inquiries, interviews, or media requests:&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Email:&lt;&#x2F;strong&gt; &lt;a href=&quot;mailto:mail@jmit.ca&quot;&gt;mail@jmit.ca&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Please allow up to 24 hours for a response.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;guidelines&quot;&gt;Guidelines&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Do not alter the logo’s proportions or colours.&lt;&#x2F;li&gt;
+&lt;li&gt;Use the business name &lt;strong&gt;jmit.ca&lt;&#x2F;strong&gt; when referencing the website.&lt;&#x2F;li&gt;
+&lt;li&gt;For quotes or attributions, please confirm wording before publication.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;in-the-news&quot;&gt;In the News&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;em&gt;No press mentions yet — check back soon.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;!-- - [Article Title](https:&#x2F;&#x2F;example.com) — *Publication Name*, February 2026 --&gt;
+</description>
+      </item>
       <item>
           <title>Remote Support</title>
           <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
@@ -15,6 +106,21 @@
           <link>https://jmit.ca/remote/</link>
           <guid>https://jmit.ca/remote/</guid>
           <description xml:base="https://jmit.ca/remote/">&lt;h2 id=&quot;remote-support&quot;&gt;Remote Support&lt;&#x2F;h2&gt;
+&lt;figure class=&quot;figure mx-auto float-md-left w-100 w-md-40 w-sm-75&quot;&gt;
+    
+    
+    &lt;img src=&quot;https:&#x2F;&#x2F;jmit.ca&#x2F;remote&#x2F;logo-header.svg&quot; alt=&quot;RustDesk Logo&quot;&gt;
+    
+    &lt;figcaption class=&quot;flex-row gap-xs text-sans-serif text-sm p-xs&quot;&gt;
+        &lt;x-meta-icon&gt;
+            &lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; width=&quot;32&quot; height=&quot;32&quot; class=&quot;svgicon&quot; fill=&quot;currentColor&quot; viewBox=&quot;0 0 256 256&quot;&gt;&lt;path d=&quot;M208,56H180.28L166.65,35.56A8,8,0,0,0,160,32H96a8,8,0,0,0-6.65,3.56L75.71,56H48A24,24,0,0,0,24,80V192a24,24,0,0,0,24,24H208a24,24,0,0,0,24-24V80A24,24,0,0,0,208,56Zm8,136a8,8,0,0,1-8,8H48a8,8,0,0,1-8-8V80a8,8,0,0,1,8-8H80a8,8,0,0,0,6.66-3.56L100.28,48h55.43l13.63,20.44A8,8,0,0,0,176,72h32a8,8,0,0,1,8,8ZM128,88a44,44,0,1,0,44,44A44.05,44.05,0,0,0,128,88Zm0,72a28,28,0,1,1,28-28A28,28,0,0,1,128,160Z&quot;&gt;&lt;&#x2F;path&gt;&lt;&#x2F;svg&gt;
+        &lt;&#x2F;x-meta-icon&gt;
+
+        &lt;a class=&quot;stretched-link text-wrap&quot; href=&quot;https:&#x2F;&#x2F;jmit.ca&#x2F;remote&#x2F;logo-header.svg&quot; target=&quot;_blank&quot;&gt;
+            RustDesk Logo
+        &lt;&#x2F;a&gt;
+    &lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
 &lt;p&gt;Download and run this to start a remote support session. No installation required.&lt;&#x2F;p&gt;
 &lt;div class=&quot;flex-col gap-md mb-md&quot;&gt;
     &lt;a href=&quot;&#x2F;files&#x2F;jmit-remote-support-client.exe&quot; class=&quot;btn&quot;&gt;Remote Support Client (Windows)&lt;&#x2F;a&gt;
