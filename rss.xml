@@ -9,12 +9,17 @@
       <atom:link href="https://jmit.ca/rss.xml" rel="self" type="application/rss+xml"/>
       <lastBuildDate>Wed, 25 Feb 2026 00:00:00 +0000</lastBuildDate>
       <item>
-          <title>Downloads</title>
+          <title>Remote Support</title>
           <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
           <author>Unknown</author>
-          <link>https://jmit.ca/downloads/</link>
-          <guid>https://jmit.ca/downloads/</guid>
-          <description xml:base="https://jmit.ca/downloads/">&lt;p&gt;asdf&lt;&#x2F;p&gt;
+          <link>https://jmit.ca/remote/</link>
+          <guid>https://jmit.ca/remote/</guid>
+          <description xml:base="https://jmit.ca/remote/">&lt;h2 id=&quot;remote-support&quot;&gt;Remote Support&lt;&#x2F;h2&gt;
+&lt;p&gt;Download and run this to start a remote support session. No installation required.&lt;&#x2F;p&gt;
+&lt;div class=&quot;flex-col gap-md mb-md&quot;&gt;
+    &lt;a href=&quot;&#x2F;files&#x2F;jmit-remote-support-client.exe&quot; class=&quot;btn&quot;&gt;Remote Support Client (Windows)&lt;&#x2F;a&gt;
+&lt;&#x2F;div&gt;
+&lt;p&gt;My client program is built on &lt;a rel=&quot;noopener external&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;rustdesk.com&quot;&gt;RustDesk&lt;&#x2F;a&gt;, industry standard remote support software. Your connection is fully secured through my infrastructure — not a third party. You can see everything I do and disconnect at any time.&lt;&#x2F;p&gt;
 </description>
       </item>
       <item>
@@ -41,6 +46,68 @@
 </description>
       </item>
       <item>
+          <title>Pricing</title>
+          <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://jmit.ca/pricing/</link>
+          <guid>https://jmit.ca/pricing/</guid>
+          <description xml:base="https://jmit.ca/pricing/">&lt;h2 id=&quot;services&quot;&gt;Services&lt;&#x2F;h2&gt;
+&lt;x-table-wrapper&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Service&lt;&#x2F;th&gt;&lt;th&gt;Price&lt;&#x2F;th&gt;&lt;th&gt;Rate&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Remote tech support&lt;&#x2F;td&gt;&lt;td&gt;$50 CAD&lt;&#x2F;td&gt;&lt;td&gt;hourly&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;In-home tech support&lt;&#x2F;td&gt;&lt;td&gt;$60 CAD&lt;&#x2F;td&gt;&lt;td&gt;hourly&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Malware remediation (remote)&lt;&#x2F;td&gt;&lt;td&gt;$80 CAD&lt;&#x2F;td&gt;&lt;td&gt;flat&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Malware remediation (in-home)&lt;&#x2F;td&gt;&lt;td&gt;$90 CAD&lt;&#x2F;td&gt;&lt;td&gt;flat&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Custom PC Build (labour)&lt;&#x2F;td&gt;&lt;td&gt;$150 CAD&lt;&#x2F;td&gt;&lt;td&gt;flat&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+
+&lt;&#x2F;x-table-wrapper&gt;
+&lt;p&gt;Remote support is preferred when possible. In-home visits available in Haldimand &#x2F; Norfolk County.&lt;&#x2F;p&gt;
+&lt;p&gt;Payment due on completion. Accepted methods: Interac e-Transfer, cash (in-home only).&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;Interested? &lt;a href=&quot;&#x2F;contact&quot;&gt;Get in touch&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Privacy Policy</title>
+          <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://jmit.ca/privacy/</link>
+          <guid>https://jmit.ca/privacy/</guid>
+          <description xml:base="https://jmit.ca/privacy/">&lt;p&gt;&lt;strong&gt;Last updated:&lt;&#x2F;strong&gt; March 1, 2026&lt;&#x2F;p&gt;
+&lt;p&gt;JMIT (“I”, “me”) operates jmit.ca and provides IT services. This policy explains what information I collect and how I use it.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;what-i-collect&quot;&gt;What I Collect&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Contact information&lt;&#x2F;strong&gt; you provide: name, email, phone number (optional), and details about your issue — submitted through the service request form or email.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Remote session data&lt;&#x2F;strong&gt;: During remote support sessions, I can see your screen. I do not record sessions, take screenshots, or store any of your personal files or data.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Payment information&lt;&#x2F;strong&gt;: e-Transfer payments are processed through Interac. I do not see or store your banking details.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;what-i-don-t-collect&quot;&gt;What I Don’t Collect&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;I don’t use cookies for tracking or analytics.&lt;&#x2F;li&gt;
+&lt;li&gt;I don’t sell, share, or give your information to third parties.&lt;&#x2F;li&gt;
+&lt;li&gt;I don’t store passwords or credentials you share during a support session.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;how-i-use-your-information&quot;&gt;How I Use Your Information&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;To respond to your inquiry or service request.&lt;&#x2F;li&gt;
+&lt;li&gt;To provide the service you’ve requested.&lt;&#x2F;li&gt;
+&lt;li&gt;To send invoices and follow up on completed work.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;That’s it.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;third-party-services&quot;&gt;Third-Party Services&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Google Forms&lt;&#x2F;strong&gt;: The service request form is hosted by Google. Their &lt;a rel=&quot;noopener external&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;policies.google.com&#x2F;privacy&quot;&gt;privacy policy&lt;&#x2F;a&gt; applies to form submissions.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;RustDesk&lt;&#x2F;strong&gt;: Remote support sessions use RustDesk, connected through a server I operate. Session data passes through my server only during the active session and is not stored.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;data-retention&quot;&gt;Data Retention&lt;&#x2F;h2&gt;
+&lt;p&gt;I keep your contact information and service history for bookkeeping and follow-up. If you want me to delete your information, email me at mail@jmit.ca and I will.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;contact&quot;&gt;Contact&lt;&#x2F;h2&gt;
+&lt;p&gt;Questions about this policy: &lt;a href=&quot;mailto:mail@jmit.ca&quot;&gt;mail@jmit.ca&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
           <title>Common Questions</title>
           <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
           <author>Unknown</author>
@@ -63,6 +130,62 @@
 &lt;p&gt;Monday to Friday, 9am–5pm. I respond to all inquiries within 24 business hours.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;where-do-you-begin&quot;&gt;Where do you begin?&lt;&#x2F;h3&gt;
 &lt;p&gt;Fill out the &lt;a href=&quot;&#x2F;contact-form&#x2F;&quot;&gt;Service Request Form&lt;&#x2F;a&gt;, or email &lt;a href=&quot;mailto:mail@jmit.ca&quot;&gt;mail@jmit.ca&lt;&#x2F;a&gt;. I’ll respond within 24 hours.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Terms of Service</title>
+          <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://jmit.ca/terms/</link>
+          <guid>https://jmit.ca/terms/</guid>
+          <description xml:base="https://jmit.ca/terms/">&lt;p&gt;&lt;strong&gt;Last updated:&lt;&#x2F;strong&gt; March 1, 2026&lt;&#x2F;p&gt;
+&lt;p&gt;These terms apply when you use JMIT’s services. By requesting or receiving service, you agree to them.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;services&quot;&gt;Services&lt;&#x2F;h2&gt;
+&lt;p&gt;JMIT provides IT support, repair, malware remediation, and custom PC builds for home users and small businesses. Services are provided by me (James), operating as a sole proprietor in Ontario, Canada.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;quotes-and-pricing&quot;&gt;Quotes and Pricing&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Current pricing is listed on the &lt;a href=&quot;&#x2F;pricing&quot;&gt;pricing page&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;For hourly work, I’ll give you an estimate before starting. If the work looks like it will exceed the estimate, I’ll let you know before continuing.&lt;&#x2F;li&gt;
+&lt;li&gt;Flat-rate services are priced as listed. No surprises.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;payment&quot;&gt;Payment&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Payment is due on completion of work.&lt;&#x2F;li&gt;
+&lt;li&gt;Accepted methods: Interac e-Transfer (mail@jmit.ca), cash (in-home visits only).&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;remote-support&quot;&gt;Remote Support&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Remote sessions require your consent. You can see everything happening on your screen and can disconnect at any time.&lt;&#x2F;li&gt;
+&lt;li&gt;I do not access files, accounts, or data beyond what’s needed to resolve your issue.&lt;&#x2F;li&gt;
+&lt;li&gt;I am not responsible for pre-existing issues discovered during a session.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;in-home-visits&quot;&gt;In-Home Visits&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;In-home visits are available in Haldimand &#x2F; Norfolk County.&lt;&#x2F;li&gt;
+&lt;li&gt;You agree to provide a safe, accessible workspace.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;liability&quot;&gt;Liability&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;I’ll do my best to fix your problem, but I can’t guarantee every issue is solvable.&lt;&#x2F;li&gt;
+&lt;li&gt;I am not liable for data loss. &lt;strong&gt;Back up your data before any service.&lt;&#x2F;strong&gt; I’ll remind you, but the responsibility is yours.&lt;&#x2F;li&gt;
+&lt;li&gt;My total liability for any service is limited to the amount you paid for that service.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;custom-pc-builds&quot;&gt;Custom PC Builds&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;You purchase the parts (I can help you choose and order them).&lt;&#x2F;li&gt;
+&lt;li&gt;The $150 labour fee covers assembly and initial setup.&lt;&#x2F;li&gt;
+&lt;li&gt;Parts are covered by their manufacturer warranties, not by me.&lt;&#x2F;li&gt;
+&lt;li&gt;I guarantee my assembly work — if something I built isn’t working right, I’ll fix it.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;cancellations&quot;&gt;Cancellations&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;You can cancel scheduled work with no charge if you let me know at least 24 hours in advance.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;changes-to-these-terms&quot;&gt;Changes to These Terms&lt;&#x2F;h2&gt;
+&lt;p&gt;I may update these terms. The latest version is always available at &lt;a href=&quot;&#x2F;terms&quot;&gt;jmit.ca&#x2F;terms&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;contact&quot;&gt;Contact&lt;&#x2F;h2&gt;
+&lt;p&gt;Questions: &lt;a href=&quot;mailto:mail@jmit.ca&quot;&gt;mail@jmit.ca&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 </description>
       </item>
     </channel>

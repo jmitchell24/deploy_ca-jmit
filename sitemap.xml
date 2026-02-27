@@ -8,11 +8,23 @@
         <lastmod>2026-02-23</lastmod>
     </url>
     <url>
-        <loc>https://jmit.ca/downloads/</loc>
-        <lastmod>2026-02-25</lastmod>
+        <loc>https://jmit.ca/pricing/</loc>
+        <lastmod>2026-02-23</lastmod>
+    </url>
+    <url>
+        <loc>https://jmit.ca/privacy/</loc>
+        <lastmod>2026-02-23</lastmod>
     </url>
     <url>
         <loc>https://jmit.ca/questions/</loc>
+        <lastmod>2026-02-23</lastmod>
+    </url>
+    <url>
+        <loc>https://jmit.ca/remote/</loc>
+        <lastmod>2026-02-25</lastmod>
+    </url>
+    <url>
+        <loc>https://jmit.ca/terms/</loc>
         <lastmod>2026-02-23</lastmod>
     </url>
 </urlset>
