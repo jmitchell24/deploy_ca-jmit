@@ -3,10 +3,7 @@
     <channel>
       <title>jmit.ca</title>
       <link>https://jmit.ca</link>
-      <description>jmit.ca, an IT services business operating in 
-Haldimand-Norfolk County, Ontario. 
-Services: non-commercial tech support, pc repairs, custom pc building. 
-</description>
+      <description>jmit.ca — Your next Digital Fixer. IT services in Haldimand-Norfolk County, Ontario. Tech support, PC repairs, and custom PC building. </description>
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://jmit.ca/rss.xml" rel="self" type="application/rss+xml"/>
