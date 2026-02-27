@@ -57,31 +57,29 @@ Services include:
 &lt;&#x2F;x-code-wrapper&gt;
 
 &lt;h3 id=&quot;logo&quot;&gt;Logo&lt;&#x2F;h3&gt;
-&lt;p&gt;The JMIT logo is a circuit-board icon. Download the SVG below.&lt;&#x2F;p&gt;
+&lt;figure class=&quot;figure mx-auto float-md-right w-100 w-md-40 w-sm-75&quot;&gt;
+    
+    
+    &lt;img src=&quot;https:&#x2F;&#x2F;jmit.ca&#x2F;press&#x2F;logo_512x512.png&quot; alt=&quot;jmit.ca logo&quot;&gt;
+    
+    &lt;figcaption class=&quot;flex-row gap-xs text-sans-serif text-sm p-xs&quot;&gt;
+        &lt;x-meta-icon&gt;
+            &lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; width=&quot;32&quot; height=&quot;32&quot; class=&quot;svgicon&quot; fill=&quot;currentColor&quot; viewBox=&quot;0 0 256 256&quot;&gt;&lt;path d=&quot;M208,56H180.28L166.65,35.56A8,8,0,0,0,160,32H96a8,8,0,0,0-6.65,3.56L75.71,56H48A24,24,0,0,0,24,80V192a24,24,0,0,0,24,24H208a24,24,0,0,0,24-24V80A24,24,0,0,0,208,56Zm8,136a8,8,0,0,1-8,8H48a8,8,0,0,1-8-8V80a8,8,0,0,1,8-8H80a8,8,0,0,0,6.66-3.56L100.28,48h55.43l13.63,20.44A8,8,0,0,0,176,72h32a8,8,0,0,1,8,8ZM128,88a44,44,0,1,0,44,44A44.05,44.05,0,0,0,128,88Zm0,72a28,28,0,1,1,28-28A28,28,0,0,1,128,160Z&quot;&gt;&lt;&#x2F;path&gt;&lt;&#x2F;svg&gt;
+        &lt;&#x2F;x-meta-icon&gt;
+
+        &lt;a class=&quot;stretched-link text-wrap&quot; href=&quot;https:&#x2F;&#x2F;jmit.ca&#x2F;press&#x2F;logo_512x512.png&quot; target=&quot;_blank&quot;&gt;
+            jmit.ca logo
+        &lt;&#x2F;a&gt;
+    &lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;&#x2F;favicon.svg&quot;&gt;Logo (SVG)&lt;&#x2F;a&gt; — white on transparent, suitable for dark backgrounds&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;jmit.ca&#x2F;press&#x2F;logo_512x512.png&quot;&gt;512x512 (PNG)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;jmit.ca&#x2F;press&#x2F;logo_1200x630.png&quot;&gt;1200x630 (PNG)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;!-- If you add additional logo variants (e.g. dark version, PNG exports), drop them in static&#x2F;files&#x2F; and link here: --&gt;
 &lt;!-- - [Logo dark (SVG)](&#x2F;files&#x2F;jmit-logo-dark.svg) --&gt;
 &lt;!-- - [Logo (PNG, 512px)](&#x2F;files&#x2F;jmit-logo-512.png) --&gt;
-&lt;h3 id=&quot;colours&quot;&gt;Colours&lt;&#x2F;h3&gt;
-&lt;x-table-wrapper&gt;
-&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Name&lt;&#x2F;th&gt;&lt;th&gt;Value&lt;&#x2F;th&gt;&lt;th&gt;Usage&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
-&lt;tr&gt;&lt;td&gt;Primary (dark mode)&lt;&#x2F;td&gt;&lt;td&gt;&lt;code&gt;hsl(195, 35%, 45%)&lt;&#x2F;code&gt;&lt;&#x2F;td&gt;&lt;td&gt;Links, accents&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;Primary light&lt;&#x2F;td&gt;&lt;td&gt;&lt;code&gt;hsl(195, 60%, 65%)&lt;&#x2F;code&gt;&lt;&#x2F;td&gt;&lt;td&gt;Highlights&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;Background (dark)&lt;&#x2F;td&gt;&lt;td&gt;&lt;code&gt;hsl(210, 0%, 10%)&lt;&#x2F;code&gt;&lt;&#x2F;td&gt;&lt;td&gt;Page background&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;Text (dark)&lt;&#x2F;td&gt;&lt;td&gt;&lt;code&gt;hsl(210, 0%, 75%)&lt;&#x2F;code&gt;&lt;&#x2F;td&gt;&lt;td&gt;Body text&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
-
-&lt;&#x2F;x-table-wrapper&gt;&lt;h3 id=&quot;typography&quot;&gt;Typography&lt;&#x2F;h3&gt;
-&lt;x-table-wrapper&gt;
-&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Font&lt;&#x2F;th&gt;&lt;th&gt;Usage&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
-&lt;tr&gt;&lt;td&gt;Montserrat&lt;&#x2F;td&gt;&lt;td&gt;Body text, UI&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;Courier Prime&lt;&#x2F;td&gt;&lt;td&gt;Code, monospace elements&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;Crimson Pro&lt;&#x2F;td&gt;&lt;td&gt;Serif accent text&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
-
-&lt;&#x2F;x-table-wrapper&gt;&lt;h2 id=&quot;media-contact&quot;&gt;Media Contact&lt;&#x2F;h2&gt;
+&lt;h2 id=&quot;media-contact&quot;&gt;Media Contact&lt;&#x2F;h2&gt;
 &lt;p&gt;For press inquiries, interviews, or media requests:&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;Email:&lt;&#x2F;strong&gt; &lt;a href=&quot;mailto:mail@jmit.ca&quot;&gt;mail@jmit.ca&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Please allow up to 24 hours for a response.&lt;&#x2F;p&gt;
