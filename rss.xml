@@ -126,14 +126,15 @@ Services include:
           <author>Unknown</author>
           <link>https://jmit.ca/contact/</link>
           <guid>https://jmit.ca/contact/</guid>
-          <description xml:base="https://jmit.ca/contact/">&lt;h2 id=&quot;how-to-reach-me&quot;&gt;How to Reach Me&lt;&#x2F;h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;mailto:mail@jmit.ca&quot;&gt;mail@jmit.ca&lt;&#x2F;a&gt; &lt;strong&gt;preferred&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a rel=&quot;noopener external&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.facebook.com&#x2F;profile.php?id=61588036981363&quot;&gt;Facebook Business Page&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;Add ‘jmit.ca’ on Discord&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-&lt;p&gt;I will respond to any messages within 24 hours.&lt;&#x2F;p&gt;
-&lt;h3 id=&quot;service-request-form&quot;&gt;Service Request Form&lt;&#x2F;h3&gt;
+          <description xml:base="https://jmit.ca/contact/">&lt;p&gt;Email is preferred, I will respond to any messages within 24 hours.&lt;&#x2F;p&gt;
+&lt;x-table-wrapper&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;&lt;&#x2F;th&gt;&lt;th&gt;&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Email&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;mailto:mail@jmit.ca&quot;&gt;mail@jmit.ca&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Text &amp;amp; Voice&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;tel:+15194208628&quot;&gt;+15194208628&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Discord&lt;&#x2F;td&gt;&lt;td&gt;Add ‘jmit.ca’&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+
+&lt;&#x2F;x-table-wrapper&gt;&lt;h3 id=&quot;service-request-form&quot;&gt;Service Request Form&lt;&#x2F;h3&gt;
 &lt;p&gt;If you have a specific service request you can fill out the form linked below.&lt;&#x2F;p&gt;
 &lt;div class=&quot;flex-col gap-md mb-md&quot;&gt;
     &lt;a href=&quot;&#x2F;contact-form&quot; class=&quot;btn&quot;&gt;Service Request Form&lt;&#x2F;a&gt;
