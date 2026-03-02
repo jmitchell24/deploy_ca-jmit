@@ -16,15 +16,17 @@
           <guid>https://jmit.ca/press/</guid>
           <description xml:base="https://jmit.ca/press/">&lt;h2 id=&quot;press-kit&quot;&gt;Press Kit&lt;&#x2F;h2&gt;
 &lt;h3 id=&quot;short-bio&quot;&gt;Short Bio&lt;&#x2F;h3&gt;
-&lt;x-code-wrapper class=&quot;animate-on-hover&quot; data-raw-code=&quot;jmit.ca is a sole proprietorship IT services business 
-operating in Haldimand-Norfolk County, Ontario. 
+&lt;x-code-wrapper class=&quot;animate-on-hover&quot; data-raw-code=&quot;jmit.ca is a home IT services company, operating in Haldimand &amp;amp; Norfolk County. 
 
-Founded by James Mitchell in 2026. 
+It is sole-proprietorship, owned and operated by myself. I have industry experience providing high-quality IT services, and a passion for technology that drives my work. I have great attention to detail, and a focus on customer satisfaction. 
 
 Services include:
-- non-commercial tech support, 
-- pc repairs
-- custom pc building&quot;&gt;
+- Remote &amp;amp; In-home IT Support
+- Malware Remediation
+- Custom PC Assembly
+- PC Repair
+
+Founded by James Mitchell in 2026.&quot;&gt;
 
     
     
@@ -34,15 +36,17 @@ Services include:
     
     
 
-    &lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;giallo-ln&quot;&gt; 1&lt;&#x2F;span&gt;&lt;span&gt;jmit.ca is a sole proprietorship IT services business &lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;giallo-ln&quot;&gt; 2&lt;&#x2F;span&gt;&lt;span&gt;operating in Haldimand-Norfolk County, Ontario. &lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;giallo-ln&quot;&gt; 3&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;giallo-ln&quot;&gt; 4&lt;&#x2F;span&gt;&lt;span&gt;Founded by James Mitchell in 2026. &lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;giallo-ln&quot;&gt; 5&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;giallo-ln&quot;&gt; 6&lt;&#x2F;span&gt;&lt;span&gt;Services include:&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;giallo-ln&quot;&gt; 7&lt;&#x2F;span&gt;&lt;span&gt;- non-commercial tech support, &lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;giallo-ln&quot;&gt; 8&lt;&#x2F;span&gt;&lt;span&gt;- pc repairs&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;giallo-ln&quot;&gt; 9&lt;&#x2F;span&gt;&lt;span&gt;- custom pc building&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+    &lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;giallo-ln&quot;&gt; 1&lt;&#x2F;span&gt;&lt;span&gt;jmit.ca is a home IT services company, operating in Haldimand &amp;amp; Norfolk County. &lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;giallo-ln&quot;&gt; 2&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;giallo-ln&quot;&gt; 3&lt;&#x2F;span&gt;&lt;span&gt;It is sole-proprietorship, owned and operated by myself. I have industry experience providing high-quality IT services, and a passion for technology that drives my work. I have great attention to detail, and a focus on customer satisfaction. &lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;giallo-ln&quot;&gt; 4&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;giallo-ln&quot;&gt; 5&lt;&#x2F;span&gt;&lt;span&gt;Services include:&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;giallo-ln&quot;&gt; 6&lt;&#x2F;span&gt;&lt;span&gt;- Remote &amp;amp; In-home IT Support&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;giallo-ln&quot;&gt; 7&lt;&#x2F;span&gt;&lt;span&gt;- Malware Remediation&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;giallo-ln&quot;&gt; 8&lt;&#x2F;span&gt;&lt;span&gt;- Custom PC Assembly&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;giallo-ln&quot;&gt; 9&lt;&#x2F;span&gt;&lt;span&gt;- PC Repair&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;giallo-ln&quot;&gt;10&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;giallo-ln&quot;&gt;11&lt;&#x2F;span&gt;&lt;span&gt;Founded by James Mitchell in 2026.&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 
     
     
@@ -77,8 +81,7 @@ Services include:
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;jmit.ca&#x2F;press&#x2F;logo_1200x630.png&quot;&gt;1200x630 (PNG)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;media-contact&quot;&gt;Media Contact&lt;&#x2F;h2&gt;
-&lt;p&gt;For press inquiries, interviews, or media requests:&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;strong&gt;Email:&lt;&#x2F;strong&gt; &lt;a href=&quot;mailto:mail@jmit.ca&quot;&gt;mail@jmit.ca&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;For press inquiries, interviews, or media requests email me at &lt;a href=&quot;mailto:mail@jmit.ca&quot;&gt;mail@jmit.ca&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 &lt;p&gt;Please allow up to 24 hours for a response.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;guidelines&quot;&gt;Guidelines&lt;&#x2F;h3&gt;
 &lt;ul&gt;
