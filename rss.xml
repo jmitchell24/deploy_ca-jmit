@@ -207,8 +207,7 @@ Founded by James Mitchell in 2026.&quot;&gt;
           <author>Unknown</author>
           <link>https://jmit.ca/services/</link>
           <guid>https://jmit.ca/services/</guid>
-          <description xml:base="https://jmit.ca/services/">&lt;h2 id=&quot;overview&quot;&gt;Overview&lt;&#x2F;h2&gt;
-&lt;x-table-wrapper&gt;
+          <description xml:base="https://jmit.ca/services/">&lt;x-table-wrapper&gt;
 &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Service&lt;&#x2F;th&gt;&lt;th&gt;Price&lt;&#x2F;th&gt;&lt;th&gt;Rate&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
 &lt;tr&gt;&lt;td&gt;Remote support&lt;&#x2F;td&gt;&lt;td&gt;$50 CAD&lt;&#x2F;td&gt;&lt;td&gt;hourly&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;tr&gt;&lt;td&gt;In-home support&lt;&#x2F;td&gt;&lt;td&gt;$60 CAD&lt;&#x2F;td&gt;&lt;td&gt;hourly&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
