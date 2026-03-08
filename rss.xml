@@ -199,6 +199,11 @@ Founded by James Mitchell in 2026.&quot;&gt;
     &lt;a href=&quot;&#x2F;contact-form&quot; class=&quot;btn&quot;&gt;Fill out this Service Request Form&lt;&#x2F;a&gt;
 &lt;&#x2F;div&gt;
 &lt;p&gt;Or contact me directly. See the &lt;a href=&quot;&#x2F;contact&quot;&gt;contacts page&lt;&#x2F;a&gt; for more details.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;do-you-provide-any-pro-bono-free-services&quot;&gt;Do you provide any pro-bono (free) services?&lt;&#x2F;h3&gt;
+&lt;p&gt;For the initial launch of jmit.ca, I am offering pro-bono services on a case-by-case basis.&lt;&#x2F;p&gt;
+&lt;p&gt;I will choose at my sole discretion what services to provide, and to whom. I will honour completely any agreements that I make for service, but I reserve the right to stop accepting new pro-bono work at any time.&lt;&#x2F;p&gt;
+&lt;p&gt;Paid service must be prioritised to sustain the business, but otherwise I will maintain the same high standard of service and timeliness that I provide to paying customers.&lt;&#x2F;p&gt;
+&lt;p&gt;I am specifically making this offer for registered non-profit and community organisations. If you represent such an organisation I encourage you to reach out. See the &lt;a href=&quot;&#x2F;contact&quot;&gt;contacts page&lt;&#x2F;a&gt; page for more details.&lt;&#x2F;p&gt;
 </description>
       </item>
       <item>
@@ -212,7 +217,7 @@ Founded by James Mitchell in 2026.&quot;&gt;
 &lt;tr&gt;&lt;td&gt;Remote support&lt;&#x2F;td&gt;&lt;td&gt;$50 CAD&lt;&#x2F;td&gt;&lt;td&gt;hourly&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;tr&gt;&lt;td&gt;In-home support&lt;&#x2F;td&gt;&lt;td&gt;$60 CAD&lt;&#x2F;td&gt;&lt;td&gt;hourly&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;tr&gt;&lt;td&gt;Malware remediation&lt;&#x2F;td&gt;&lt;td&gt;$80 CAD&lt;&#x2F;td&gt;&lt;td&gt;flat rate&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;Custom PC Build (labour)&lt;&#x2F;td&gt;&lt;td&gt;$150 CAD&lt;&#x2F;td&gt;&lt;td&gt;flat rate&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Custom PC Assembly&lt;&#x2F;td&gt;&lt;td&gt;$150 CAD&lt;&#x2F;td&gt;&lt;td&gt;flat rate&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
 
 &lt;&#x2F;x-table-wrapper&gt;
@@ -223,8 +228,7 @@ Founded by James Mitchell in 2026.&quot;&gt;
 &lt;li&gt;Cash&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;p&gt;I am available for work &lt;em&gt;9:00am&lt;&#x2F;em&gt; - &lt;em&gt;5:00pm&lt;&#x2F;em&gt;, every day of the week.&lt;&#x2F;p&gt;
-&lt;h2 id=&quot;details&quot;&gt;Details&lt;&#x2F;h2&gt;
-&lt;h3 id=&quot;remote-in-home-support&quot;&gt;Remote &amp;amp; In-home Support&lt;&#x2F;h3&gt;
+&lt;h2 id=&quot;remote-in-home-support&quot;&gt;Remote &amp;amp; In-home Support&lt;&#x2F;h2&gt;
 &lt;p&gt;I can offer personal (non-commercial) IT support. This includes but is not limited to:&lt;&#x2F;p&gt;
 &lt;ul&gt;
 &lt;li&gt;New computer setup&lt;&#x2F;li&gt;
@@ -232,11 +236,15 @@ Founded by James Mitchell in 2026.&quot;&gt;
 &lt;li&gt;Fixing Router &#x2F; Network misconfiguration&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;p&gt;If you have an issue that isn’t listed please feel free to reach out. My knowledge is broad and it is likely that I can create a solution for you.&lt;&#x2F;p&gt;
-&lt;h3 id=&quot;malware-remediation&quot;&gt;Malware Remediation&lt;&#x2F;h3&gt;
+&lt;h2 id=&quot;malware-remediation&quot;&gt;Malware Remediation&lt;&#x2F;h2&gt;
 &lt;p&gt;A complete system diagnostic scan, followed by removal of all detected malware. If you have been the victim of an online or phone scam then this service can help you.&lt;&#x2F;p&gt;
-&lt;h3 id=&quot;custom-pc-build&quot;&gt;Custom PC Build&lt;&#x2F;h3&gt;
+&lt;h2 id=&quot;custom-pc-assembly&quot;&gt;Custom PC Assembly&lt;&#x2F;h2&gt;
 &lt;p&gt;An end-to-end custom PC assembly service, offered at a flat-rate fee. I provide advice on part selection given your requirements and budget, and perform full assembly of your new machine, as well as initial software setup.&lt;&#x2F;p&gt;
 &lt;p&gt;I am very detail oriented, and strive to ensure that my customers are fully satisfied e.g. ensuring good cable management and RGB lighting effect installation.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;other-services&quot;&gt;Other Services&lt;&#x2F;h2&gt;
+&lt;p&gt;If you are in need of an IT solution that hasn’t been listed on this page, feel free to reach out. We can have a discussion about your needs, and I might be able to offer you a solution.&lt;&#x2F;p&gt;
+&lt;p&gt;Beyond my experience in IT support, I have an extensive education in software development. I can build websites, internal tools, etc…&lt;&#x2F;p&gt;
+&lt;p&gt;If you are interested please contact me directly. See the &lt;a href=&quot;&#x2F;contact&quot;&gt;contact pages&lt;&#x2F;a&gt; for more details.&lt;&#x2F;p&gt;
 </description>
       </item>
       <item>
