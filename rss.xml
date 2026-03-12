@@ -214,9 +214,10 @@ Founded by James Mitchell in 2026.&quot;&gt;
           <guid>https://jmit.ca/services/</guid>
           <description xml:base="https://jmit.ca/services/">&lt;x-table-wrapper&gt;
 &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Service&lt;&#x2F;th&gt;&lt;th&gt;Price&lt;&#x2F;th&gt;&lt;th&gt;Rate&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
-&lt;tr&gt;&lt;td&gt;Remote support&lt;&#x2F;td&gt;&lt;td&gt;$50 CAD&lt;&#x2F;td&gt;&lt;td&gt;hourly&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;In-home support&lt;&#x2F;td&gt;&lt;td&gt;$60 CAD&lt;&#x2F;td&gt;&lt;td&gt;hourly&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;Malware remediation&lt;&#x2F;td&gt;&lt;td&gt;$80 CAD&lt;&#x2F;td&gt;&lt;td&gt;flat rate&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Bench Service&lt;&#x2F;td&gt;&lt;td&gt;$50 CAD&lt;&#x2F;td&gt;&lt;td&gt;hourly&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Remote Support&lt;&#x2F;td&gt;&lt;td&gt;$50 CAD&lt;&#x2F;td&gt;&lt;td&gt;hourly&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;In-home Support&lt;&#x2F;td&gt;&lt;td&gt;$60 CAD&lt;&#x2F;td&gt;&lt;td&gt;hourly&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Malware Remediation&lt;&#x2F;td&gt;&lt;td&gt;$80 CAD&lt;&#x2F;td&gt;&lt;td&gt;flat rate&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;tr&gt;&lt;td&gt;Custom PC Assembly&lt;&#x2F;td&gt;&lt;td&gt;$150 CAD&lt;&#x2F;td&gt;&lt;td&gt;flat rate&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
 
@@ -228,6 +229,8 @@ Founded by James Mitchell in 2026.&quot;&gt;
 &lt;li&gt;Cash&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;p&gt;I am available for work &lt;em&gt;9:00am&lt;&#x2F;em&gt; - &lt;em&gt;5:00pm&lt;&#x2F;em&gt;, every day of the week.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;bench-service&quot;&gt;Bench Service&lt;&#x2F;h2&gt;
+&lt;p&gt;This is my base hourly rate for any work done in my workshop. This includes diagnostics, troubleshooting, repair, and configuration.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;remote-in-home-support&quot;&gt;Remote &amp;amp; In-home Support&lt;&#x2F;h2&gt;
 &lt;p&gt;I can offer personal (non-commercial) IT support. This includes but is not limited to:&lt;&#x2F;p&gt;
 &lt;ul&gt;
