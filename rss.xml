@@ -129,15 +129,17 @@ Founded by James Mitchell in 2026.&quot;&gt;
           <author>Unknown</author>
           <link>https://jmit.ca/contact/</link>
           <guid>https://jmit.ca/contact/</guid>
-          <description xml:base="https://jmit.ca/contact/">&lt;p&gt;Email is preferred, I will respond to any messages within 24 hours.&lt;&#x2F;p&gt;
-&lt;x-table-wrapper&gt;
+          <description xml:base="https://jmit.ca/contact/">&lt;x-table-wrapper&gt;
 &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;&lt;&#x2F;th&gt;&lt;th&gt;&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
 &lt;tr&gt;&lt;td&gt;Email&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;mailto:mail@jmit.ca&quot;&gt;mail@jmit.ca&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;tr&gt;&lt;td&gt;Text &amp;amp; Voice&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;tel:+15194208628&quot;&gt;+15194208628&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Facebook&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;noopener external&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.facebook.com&#x2F;profile.php?id=61588036981363&quot;&gt;Business Page Link&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;tr&gt;&lt;td&gt;Discord&lt;&#x2F;td&gt;&lt;td&gt;Add ‘jmit.ca’&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
 
-&lt;&#x2F;x-table-wrapper&gt;&lt;h3 id=&quot;service-request-form&quot;&gt;Service Request Form&lt;&#x2F;h3&gt;
+&lt;&#x2F;x-table-wrapper&gt;
+&lt;p&gt;Email is preferred, I will respond to any messages within 24 hours.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;service-request-form&quot;&gt;Service Request Form&lt;&#x2F;h3&gt;
 &lt;p&gt;If you have a specific service request you can fill out the form linked below.&lt;&#x2F;p&gt;
 &lt;div class=&quot;flex-col gap-md mb-md&quot;&gt;
     &lt;a href=&quot;&#x2F;contact-form&quot; class=&quot;btn&quot;&gt;Service Request Form&lt;&#x2F;a&gt;
@@ -180,26 +182,26 @@ Founded by James Mitchell in 2026.&quot;&gt;
           <author>Unknown</author>
           <link>https://jmit.ca/questions/</link>
           <guid>https://jmit.ca/questions/</guid>
-          <description xml:base="https://jmit.ca/questions/">&lt;h3 id=&quot;what-is-remote-support&quot;&gt;What is &lt;em&gt;Remote Support&lt;&#x2F;em&gt;?&lt;&#x2F;h3&gt;
+          <description xml:base="https://jmit.ca/questions/">&lt;h2 id=&quot;what-is-remote-support&quot;&gt;What is Remote Support?&lt;&#x2F;h2&gt;
 &lt;p&gt;I connect to your computer using secure remote access software. You can see everything I’m doing on your screen. Most issues can be resolved this way. It means we both get to stay home. 😉&lt;&#x2F;p&gt;
-&lt;h3 id=&quot;securty-during-remote-sessions&quot;&gt;Securty during Remote Sessions&lt;&#x2F;h3&gt;
+&lt;h2 id=&quot;securty-during-remote-sessions&quot;&gt;Securty during Remote Sessions&lt;&#x2F;h2&gt;
 &lt;p&gt;I use industry-standard remote access tools. You can watch everything happening on screen, and you can disconnect the session at any time. I &lt;em&gt;do not&lt;&#x2F;em&gt; store any of your personal data.&lt;&#x2F;p&gt;
-&lt;h3 id=&quot;what-if-your-problem-can-t-be-fixed-remotely&quot;&gt;What if your problem can’t be fixed remotely?&lt;&#x2F;h3&gt;
+&lt;h2 id=&quot;what-if-your-problem-can-t-be-fixed-remotely&quot;&gt;What if your problem can’t be fixed remotely?&lt;&#x2F;h2&gt;
 &lt;p&gt;I offer in-home support in &lt;strong&gt;Haldimand&lt;&#x2F;strong&gt; and &lt;strong&gt;Norfolk&lt;&#x2F;strong&gt; County.&lt;&#x2F;p&gt;
-&lt;h3 id=&quot;what-payments-do-i-accept&quot;&gt;What payments do I accept?&lt;&#x2F;h3&gt;
+&lt;h2 id=&quot;what-payments-do-i-accept&quot;&gt;What payments do I accept?&lt;&#x2F;h2&gt;
 &lt;p&gt;I accept cash payment, as well as Interac e-Transfer.&lt;&#x2F;p&gt;
-&lt;h3 id=&quot;do-i-work-on-android-devices-macs-or-other-apple-products&quot;&gt;Do I work on Android devices, Macs or other Apple products?&lt;&#x2F;h3&gt;
+&lt;h2 id=&quot;do-i-work-on-android-devices-macs-or-other-apple-products&quot;&gt;Do I work on Android devices, Macs or other Apple products?&lt;&#x2F;h2&gt;
 &lt;p&gt;My focus is Windows and Linux systems. I have limited experience repairing and supporting Apple&#x2F;Android devices. If you have an Apple&#x2F;Android related question, feel free to reach out. I may still be able to help.&lt;&#x2F;p&gt;
-&lt;h3 id=&quot;do-you-sell-computer-parts&quot;&gt;Do you sell computer parts?&lt;&#x2F;h3&gt;
+&lt;h2 id=&quot;do-you-sell-computer-parts&quot;&gt;Do you sell computer parts?&lt;&#x2F;h2&gt;
 &lt;p&gt;For custom builds, I help you choose the right parts for your budget and build the system for you. You purchase the parts directly (I can send you the links), or I can order them on your behalf.&lt;&#x2F;p&gt;
-&lt;h3 id=&quot;what-are-my-hours-of-operation&quot;&gt;What are my hours of operation?&lt;&#x2F;h3&gt;
+&lt;h2 id=&quot;what-are-my-hours-of-operation&quot;&gt;What are my hours of operation?&lt;&#x2F;h2&gt;
 &lt;p&gt;I am available for work &lt;em&gt;9:00am&lt;&#x2F;em&gt; - &lt;em&gt;5:00pm&lt;&#x2F;em&gt;, every day of the week. I respond to all inquiries within 24 business hours.&lt;&#x2F;p&gt;
-&lt;h3 id=&quot;where-do-you-begin&quot;&gt;Where do you begin?&lt;&#x2F;h3&gt;
+&lt;h2 id=&quot;where-do-you-begin&quot;&gt;Where do you begin?&lt;&#x2F;h2&gt;
 &lt;div class=&quot;flex-col gap-md mb-md&quot;&gt;
     &lt;a href=&quot;&#x2F;contact-form&quot; class=&quot;btn&quot;&gt;Fill out this Service Request Form&lt;&#x2F;a&gt;
 &lt;&#x2F;div&gt;
 &lt;p&gt;Or contact me directly. See the &lt;a href=&quot;&#x2F;contact&quot;&gt;contacts page&lt;&#x2F;a&gt; for more details.&lt;&#x2F;p&gt;
-&lt;h3 id=&quot;do-you-provide-any-pro-bono-free-services&quot;&gt;Do you provide any pro-bono (free) services?&lt;&#x2F;h3&gt;
+&lt;h2 id=&quot;do-you-provide-any-pro-bono-free-services&quot;&gt;Do you provide any pro-bono (free) services?&lt;&#x2F;h2&gt;
 &lt;p&gt;For the initial launch of jmit.ca, I am offering pro-bono services on a case-by-case basis.&lt;&#x2F;p&gt;
 &lt;p&gt;I will choose at my sole discretion what services to provide, and to whom. I will honour completely any agreements that I make for service, but I reserve the right to stop accepting new pro-bono work at any time.&lt;&#x2F;p&gt;
 &lt;p&gt;Paid service must be prioritised to sustain the business, but otherwise I will maintain the same high standard of service and timeliness that I provide to paying customers.&lt;&#x2F;p&gt;
@@ -223,7 +225,7 @@ Founded by James Mitchell in 2026.&quot;&gt;
 
 &lt;&#x2F;x-table-wrapper&gt;
 &lt;p&gt;Remote support is preferred when possible. In-home visits are available in Haldimand &amp;amp; Norfolk County.&lt;&#x2F;p&gt;
-&lt;p&gt;Payment is due on completion. I accept the following:&lt;&#x2F;p&gt;
+&lt;p&gt;Payment is due on completion of work. I accept the following:&lt;&#x2F;p&gt;
 &lt;ul&gt;
 &lt;li&gt;Interac e-Transfer ( &lt;a href=&quot;mailto:mail@jmit.ca&quot;&gt;mail@jmit.ca&lt;&#x2F;a&gt; )&lt;&#x2F;li&gt;
 &lt;li&gt;Cash&lt;&#x2F;li&gt;
@@ -257,28 +259,28 @@ Founded by James Mitchell in 2026.&quot;&gt;
           <link>https://jmit.ca/terms/</link>
           <guid>https://jmit.ca/terms/</guid>
           <description xml:base="https://jmit.ca/terms/">&lt;p&gt;These terms apply to all services that I provide through jmit.ca. They must be agreed upon before any work can proceed.&lt;&#x2F;p&gt;
-&lt;h3 id=&quot;estimates-and-pricing&quot;&gt;Estimates and Pricing&lt;&#x2F;h3&gt;
+&lt;h2 id=&quot;estimates-and-pricing&quot;&gt;Estimates and Pricing&lt;&#x2F;h2&gt;
 &lt;p&gt;Current pricing is listed on the &lt;a href=&quot;&#x2F;services&quot;&gt;services page&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 &lt;p&gt;I will give you an estimate before any hourly rated work is done. This does not constitute a guarantee of total cost. Every reasonable effort will be made to adhere to the estimate, and I will notify you promptly if any additional work is required for completion of the service.&lt;&#x2F;p&gt;
 &lt;p&gt;You are free to cancel the service at any time, and will only be charged for the time that has been spent.&lt;&#x2F;p&gt;
-&lt;h3 id=&quot;payment&quot;&gt;Payment&lt;&#x2F;h3&gt;
+&lt;h2 id=&quot;payment&quot;&gt;Payment&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Payment is due on completion of work.&lt;&#x2F;li&gt;
 &lt;li&gt;Accepted payment methods: cash or Interac e-Transfer sent to &lt;a href=&quot;mailto:mail@jmit.ca&quot;&gt;mail@jmit.ca&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
-&lt;h3 id=&quot;remote-support&quot;&gt;Remote Support&lt;&#x2F;h3&gt;
+&lt;h2 id=&quot;remote-support&quot;&gt;Remote Support&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Remote support sessions require your consent. You can see everything happening on your screen and can disconnect at any time.&lt;&#x2F;li&gt;
 &lt;li&gt;I do not access files, accounts, or data beyond what’s needed to resolve your issue.&lt;&#x2F;li&gt;
 &lt;li&gt;I am not responsible for pre-existing issues discovered during a session.&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;p&gt;For more information, see the &lt;a href=&quot;&#x2F;remote&quot;&gt;remote support page&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
-&lt;h3 id=&quot;in-home-support&quot;&gt;In-Home Support&lt;&#x2F;h3&gt;
+&lt;h2 id=&quot;in-home-support&quot;&gt;In-Home Support&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;I offer In-home support to any address in Haldimand &#x2F; Norfolk County.&lt;&#x2F;li&gt;
 &lt;li&gt;You will make every reasonable effort to provide a respectful and safe work environment.&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
-&lt;h3 id=&quot;liability&quot;&gt;Liability&lt;&#x2F;h3&gt;
+&lt;h2 id=&quot;liability&quot;&gt;Liability&lt;&#x2F;h2&gt;
 &lt;p&gt;I will do my absolute best to resolve your issue, but &lt;strong&gt;success cannot be guaranteed.&lt;&#x2F;strong&gt; Some problems cannot be fixed, and some hardware is beyond repair. By agreeing to these terms, you acknowledge the following:&lt;&#x2F;p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Data loss.&lt;&#x2F;strong&gt; I am not responsible for any data loss that occurs before, during, or after service. It is your responsibility to back up your data before any work begins. I will remind you, but the responsibility is yours alone.&lt;&#x2F;li&gt;
@@ -287,14 +289,14 @@ Founded by James Mitchell in 2026.&quot;&gt;
 &lt;li&gt;&lt;strong&gt;Limit of liability.&lt;&#x2F;strong&gt; My total liability for any service is limited to the amount you paid for that service. I am not liable for any indirect, incidental, or consequential damages, including but not limited to lost revenue, lost data, or downtime.&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;strong&gt;No warranty.&lt;&#x2F;strong&gt; All services are provided as-is, with no express or implied warranty of any kind. I am absolutely willing to help with follow-up questions or issues when I can — just know that any after-service support is provided as a courtesy and cannot be guaranteed.&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
-&lt;h3 id=&quot;custom-pc-builds&quot;&gt;Custom PC Builds&lt;&#x2F;h3&gt;
+&lt;h2 id=&quot;custom-pc-builds&quot;&gt;Custom PC Builds&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;You are responsible for aquiring the neccessary components of the build. I can offer guidance on part selection and can assist in placing orders.&lt;&#x2F;li&gt;
 &lt;li&gt;My labour charge covers assembly and initial setup.&lt;&#x2F;li&gt;
 &lt;li&gt;Components are covered by their manufacturer warranties, not by me.&lt;&#x2F;li&gt;
 &lt;li&gt;I guarantee my assembly work — I take full responsibility for errors made in my own work.&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
-&lt;h3 id=&quot;cancellations&quot;&gt;Cancellations&lt;&#x2F;h3&gt;
+&lt;h2 id=&quot;cancellations&quot;&gt;Cancellations&lt;&#x2F;h2&gt;
 &lt;p&gt;You are free to cancel scheduled service before the agreed upon date and time. It will be very much appreciated if you give as much advance notice as possible.&lt;&#x2F;p&gt;
 </description>
       </item>
