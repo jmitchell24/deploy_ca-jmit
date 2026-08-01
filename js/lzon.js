@@ -111,9 +111,9 @@ function setStoredHueValue(value) {
 })();
 
 
-document.addEventListener('DOMContentLoaded', () => { // update dark mode (defaults to 'on')
+document.addEventListener('DOMContentLoaded', () => { // update dark mode (defaults to 'off')
     let pageDarkMode = localStorage.getItem("theme-dark-mode");
-    pageDarkMode = pageDarkMode == "off" ? "off" : "on"; 
+    pageDarkMode = pageDarkMode == "on" ? "on" : "off";
     localStorage.setItem("theme-dark-mode", pageDarkMode); 
 
     document.body.setAttribute("data-dark-mode", pageDarkMode);

@@ -14,11 +14,13 @@
           <author>Unknown</author>
           <link>https://jmit.ca/press/</link>
           <guid>https://jmit.ca/press/</guid>
-          <description xml:base="https://jmit.ca/press/">&lt;h2 id=&quot;press-kit&quot;&gt;Press Kit&lt;&#x2F;h2&gt;
-&lt;h3 id=&quot;short-bio&quot;&gt;Short Bio&lt;&#x2F;h3&gt;
+          <description xml:base="https://jmit.ca/press/">&lt;h2 id=&quot;copyable-bio&quot;&gt;Copyable Bio&lt;&#x2F;h2&gt;
 &lt;x-code-wrapper class=&quot;animate-on-hover&quot; data-raw-code=&quot;jmit.ca is a home IT services company, operating in Haldimand &amp;amp; Norfolk County. 
 
-It is sole-proprietorship, owned and operated by myself. I have industry experience providing high-quality IT services, and a passion for technology that drives my work. I have great attention to detail, and a focus on customer satisfaction. 
+It is sole-proprietorship, owned and operated by myself. 
+I have industry experience providing high-quality IT services, 
+and a passion for technology that drives my work. 
+I have great attention to detail, and a focus on customer satisfaction. 
 
 Services include:
 - Remote &amp;amp; In-home IT Support
@@ -38,15 +40,18 @@ Founded by James Mitchell in 2026.&quot;&gt;
 
     &lt;pre class=&quot;giallo z-code&quot;&gt;&lt;code data-lang=&quot;plain&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;giallo-ln&quot;&gt; 1&lt;&#x2F;span&gt;&lt;span&gt;jmit.ca is a home IT services company, operating in Haldimand &amp;amp; Norfolk County. &lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
 &lt;span class=&quot;giallo-l&quot;&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;giallo-ln&quot;&gt; 2&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;giallo-ln&quot;&gt; 3&lt;&#x2F;span&gt;&lt;span&gt;It is sole-proprietorship, owned and operated by myself. I have industry experience providing high-quality IT services, and a passion for technology that drives my work. I have great attention to detail, and a focus on customer satisfaction. &lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;giallo-ln&quot;&gt; 4&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;giallo-ln&quot;&gt; 5&lt;&#x2F;span&gt;&lt;span&gt;Services include:&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;giallo-ln&quot;&gt; 6&lt;&#x2F;span&gt;&lt;span&gt;- Remote &amp;amp; In-home IT Support&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;giallo-ln&quot;&gt; 7&lt;&#x2F;span&gt;&lt;span&gt;- Malware Remediation&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;giallo-ln&quot;&gt; 8&lt;&#x2F;span&gt;&lt;span&gt;- Custom PC Assembly&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;giallo-ln&quot;&gt; 9&lt;&#x2F;span&gt;&lt;span&gt;- PC Repair&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;giallo-ln&quot;&gt;10&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
-&lt;span class=&quot;giallo-l&quot;&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;giallo-ln&quot;&gt;11&lt;&#x2F;span&gt;&lt;span&gt;Founded by James Mitchell in 2026.&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;giallo-ln&quot;&gt; 3&lt;&#x2F;span&gt;&lt;span&gt;It is sole-proprietorship, owned and operated by myself. &lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;giallo-ln&quot;&gt; 4&lt;&#x2F;span&gt;&lt;span&gt;I have industry experience providing high-quality IT services, &lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;giallo-ln&quot;&gt; 5&lt;&#x2F;span&gt;&lt;span&gt;and a passion for technology that drives my work. &lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;giallo-ln&quot;&gt; 6&lt;&#x2F;span&gt;&lt;span&gt;I have great attention to detail, and a focus on customer satisfaction. &lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;giallo-ln&quot;&gt; 7&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;giallo-ln&quot;&gt; 8&lt;&#x2F;span&gt;&lt;span&gt;Services include:&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;giallo-ln&quot;&gt; 9&lt;&#x2F;span&gt;&lt;span&gt;- Remote &amp;amp; In-home IT Support&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;giallo-ln&quot;&gt;10&lt;&#x2F;span&gt;&lt;span&gt;- Malware Remediation&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;giallo-ln&quot;&gt;11&lt;&#x2F;span&gt;&lt;span&gt;- Custom PC Assembly&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;giallo-ln&quot;&gt;12&lt;&#x2F;span&gt;&lt;span&gt;- PC Repair&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;giallo-ln&quot;&gt;13&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;giallo-ln&quot;&gt;14&lt;&#x2F;span&gt;&lt;span&gt;Founded by James Mitchell in 2026.&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 
     
     
@@ -60,22 +65,7 @@ Founded by James Mitchell in 2026.&quot;&gt;
     
 &lt;&#x2F;x-code-wrapper&gt;
 
-&lt;h3 id=&quot;logo&quot;&gt;Logo&lt;&#x2F;h3&gt;
-&lt;figure class=&quot;figure mx-auto float-md-right w-100 w-md-40 w-sm-75&quot;&gt;
-    
-    
-    &lt;img src=&quot;https:&#x2F;&#x2F;jmit.ca&#x2F;press&#x2F;logo_512x512.png&quot; alt=&quot;jmit.ca logo&quot;&gt;
-    
-    &lt;figcaption class=&quot;flex-row gap-xs text-sans-serif text-sm p-xs&quot;&gt;
-        &lt;x-meta-icon&gt;
-            &lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; width=&quot;32&quot; height=&quot;32&quot; class=&quot;svgicon&quot; fill=&quot;currentColor&quot; viewBox=&quot;0 0 256 256&quot;&gt;&lt;path d=&quot;M208,56H180.28L166.65,35.56A8,8,0,0,0,160,32H96a8,8,0,0,0-6.65,3.56L75.71,56H48A24,24,0,0,0,24,80V192a24,24,0,0,0,24,24H208a24,24,0,0,0,24-24V80A24,24,0,0,0,208,56Zm8,136a8,8,0,0,1-8,8H48a8,8,0,0,1-8-8V80a8,8,0,0,1,8-8H80a8,8,0,0,0,6.66-3.56L100.28,48h55.43l13.63,20.44A8,8,0,0,0,176,72h32a8,8,0,0,1,8,8ZM128,88a44,44,0,1,0,44,44A44.05,44.05,0,0,0,128,88Zm0,72a28,28,0,1,1,28-28A28,28,0,0,1,128,160Z&quot;&gt;&lt;&#x2F;path&gt;&lt;&#x2F;svg&gt;
-        &lt;&#x2F;x-meta-icon&gt;
-
-        &lt;a class=&quot;stretched-link text-wrap&quot; href=&quot;https:&#x2F;&#x2F;jmit.ca&#x2F;press&#x2F;logo_512x512.png&quot; target=&quot;_blank&quot;&gt;
-            jmit.ca logo
-        &lt;&#x2F;a&gt;
-    &lt;&#x2F;figcaption&gt;
-&lt;&#x2F;figure&gt;
+&lt;h2 id=&quot;logo-downloads&quot;&gt;Logo Downloads&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;jmit.ca&#x2F;press&#x2F;logo_512x512.png&quot;&gt;512x512 (PNG)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;jmit.ca&#x2F;press&#x2F;logo_1200x630.png&quot;&gt;1200x630 (PNG)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
@@ -151,27 +141,28 @@ Founded by James Mitchell in 2026.&quot;&gt;
           <author>Unknown</author>
           <link>https://jmit.ca/privacy/</link>
           <guid>https://jmit.ca/privacy/</guid>
-          <description xml:base="https://jmit.ca/privacy/">&lt;p&gt;This policy covers how I handle your information when you use my services or contact me through jmit.ca.&lt;&#x2F;p&gt;
-&lt;h3 id=&quot;what-i-collect&quot;&gt;What I Collect&lt;&#x2F;h3&gt;
+          <description xml:base="https://jmit.ca/privacy/">&lt;h2 id=&quot;my-privacy-policy&quot;&gt;My Privacy Policy&lt;&#x2F;h2&gt;
+&lt;p&gt;This policy covers how I handle your information when you use my services or contact me through jmit.ca.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;what-i-collect&quot;&gt;What I Collect&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Contact Details&lt;&#x2F;strong&gt;. You provide your name, email, phone number if you choose to share it, and details about your issue. This comes through the service request form or by Email, Discord, etc.&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;strong&gt;Remote Sessions&lt;&#x2F;strong&gt;. During remote support, I can see your screen. I do not record sessions, retain screenshots, or store any of your personal files.&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;strong&gt;Payments&lt;&#x2F;strong&gt;. e-Transfer payments are processed through Interac. I do not see or store your banking details.&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;strong&gt;Site Analytics&lt;&#x2F;strong&gt;. I do collect visitor statistics for the jmit.ca website through my own infrastructure (no third-parties such as Google). I also store browser data for functional purposes of the jmit.ca website.&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
-&lt;h3 id=&quot;what-i-don-t-collect&quot;&gt;What I Don’t Collect&lt;&#x2F;h3&gt;
+&lt;h2 id=&quot;what-i-don-t-collect&quot;&gt;What I Don’t Collect&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;I do not sell, share, or give your information to anyone.&lt;&#x2F;li&gt;
 &lt;li&gt;I do not store passwords or credentials you share during a support session.&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
-&lt;h3 id=&quot;how-your-information-is-used&quot;&gt;How Your Information Is Used&lt;&#x2F;h3&gt;
+&lt;h2 id=&quot;how-your-information-is-used&quot;&gt;How Your Information Is Used&lt;&#x2F;h2&gt;
 &lt;p&gt;Your information is used to respond to your inquiry, provide the service you’ve requested, and send invoices or follow up on completed work. Nothing else.&lt;&#x2F;p&gt;
-&lt;h3 id=&quot;third-party-services&quot;&gt;Third-Party Services&lt;&#x2F;h3&gt;
+&lt;h2 id=&quot;third-party-services&quot;&gt;Third-Party Services&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Google Forms.&lt;&#x2F;strong&gt; The service request form is hosted by Google. Their &lt;a rel=&quot;noopener external&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;policies.google.com&#x2F;privacy&quot;&gt;privacy policy&lt;&#x2F;a&gt; applies to form submissions.&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;strong&gt;RustDesk.&lt;&#x2F;strong&gt; Remote support sessions use RustDesk, connected through a server that I operate. Session data passes through my server only during the active session and is not stored.&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
-&lt;h3 id=&quot;data-retention&quot;&gt;Data Retention&lt;&#x2F;h3&gt;
+&lt;h2 id=&quot;data-retention&quot;&gt;Data Retention&lt;&#x2F;h2&gt;
 &lt;p&gt;I keep your contact information and service history for bookkeeping and follow-up. If you want me to delete your information, I will do so. Just contact me directly with your request.&lt;&#x2F;p&gt;
 &lt;p&gt;See the &lt;a href=&quot;&#x2F;contact&quot;&gt;contacts page&lt;&#x2F;a&gt; for more details.&lt;&#x2F;p&gt;
 </description>
@@ -214,7 +205,8 @@ Founded by James Mitchell in 2026.&quot;&gt;
           <author>Unknown</author>
           <link>https://jmit.ca/services/</link>
           <guid>https://jmit.ca/services/</guid>
-          <description xml:base="https://jmit.ca/services/">&lt;x-table-wrapper&gt;
+          <description xml:base="https://jmit.ca/services/">&lt;h2 id=&quot;service-information&quot;&gt;Service Information&lt;&#x2F;h2&gt;
+&lt;x-table-wrapper&gt;
 &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Service&lt;&#x2F;th&gt;&lt;th&gt;Price&lt;&#x2F;th&gt;&lt;th&gt;Rate&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
 &lt;tr&gt;&lt;td&gt;Bench Service&lt;&#x2F;td&gt;&lt;td&gt;$50 CAD&lt;&#x2F;td&gt;&lt;td&gt;hourly&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;tr&gt;&lt;td&gt;Remote Support&lt;&#x2F;td&gt;&lt;td&gt;$50 CAD&lt;&#x2F;td&gt;&lt;td&gt;hourly&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
@@ -233,7 +225,7 @@ Founded by James Mitchell in 2026.&quot;&gt;
 &lt;p&gt;I am available for work &lt;em&gt;9:00am&lt;&#x2F;em&gt; - &lt;em&gt;5:00pm&lt;&#x2F;em&gt;, every day of the week.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;bench-service&quot;&gt;Bench Service&lt;&#x2F;h2&gt;
 &lt;p&gt;This is my base hourly rate for any work done in my workshop. This includes diagnostics, troubleshooting, repair, and configuration.&lt;&#x2F;p&gt;
-&lt;h2 id=&quot;remote-in-home-support&quot;&gt;Remote &amp;amp; In-home Support&lt;&#x2F;h2&gt;
+&lt;h2 id=&quot;remote-in-home-support&quot;&gt;Remote &amp;amp; In-Home Support&lt;&#x2F;h2&gt;
 &lt;p&gt;I can offer personal (non-commercial) IT support. This includes but is not limited to:&lt;&#x2F;p&gt;
 &lt;ul&gt;
 &lt;li&gt;New computer setup&lt;&#x2F;li&gt;
