@@ -3,18 +3,47 @@
     <channel>
       <title>jmit.ca</title>
       <link>https://jmit.ca</link>
-      <description>jmit.ca — Your next Digital Fixer. IT services in Haldimand-Norfolk County, Ontario. Tech support, PC repairs, and custom PC building. </description>
+      <description>jmit.ca — Home Technology Solutions. IT services in Haldimand &amp; Norfolk County, Ontario. Tech support, PC repairs, and custom PC building. </description>
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://jmit.ca/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Sat, 28 Feb 2026 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Sun, 02 Aug 2026 00:00:00 +0000</lastBuildDate>
       <item>
-          <title>Press</title>
+          <title>About Me</title>
+          <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://jmit.ca/about/</link>
+          <guid>https://jmit.ca/about/</guid>
+          <description xml:base="https://jmit.ca/about/">&lt;figure class=&quot;figure mx-auto float-md-right w-100 w-md-40 w-sm-75&quot;&gt;
+    
+    &lt;img src=&quot;https:&#x2F;&#x2F;jmit.ca&#x2F;about&#x2F;portrait.jpg&quot; alt=&quot;Portrait from early 2025.&quot;&gt;
+&lt;&#x2F;figure&gt;
+&lt;p&gt;My name is James Mitchell. I’m a Haldimand County native, and live near the border with Norfolk County. I attended Holy Trinity Catholic High School in Simcoe, and achieved an Advanced Diploma in Computer Programming from Fanshawe College.&lt;&#x2F;p&gt;
+&lt;p&gt;I have history working in the IT services industry, as well as many years of self-taught experience. Information Technology and Computing have always been my passion, and through &lt;strong&gt;jmit.ca&lt;&#x2F;strong&gt; I want to offer my skill and expertise to my community.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;contact-information&quot;&gt;Contact Information&lt;&#x2F;h3&gt;
+&lt;div class=&quot;table-wrapper&quot;&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;&lt;&#x2F;th&gt;&lt;th&gt;&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Email&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;mailto:mail@jmit.ca&quot;&gt;mail@jmit.ca&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Text &amp;amp; Voice&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;tel:+12269735817&quot;&gt;+12269735817&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Facebook&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;noopener external&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.facebook.com&#x2F;profile.php?id=61588036981363&quot;&gt;Business Page Link&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Discord&lt;&#x2F;td&gt;&lt;td&gt;Add ‘jmit.ca’&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+
+&lt;&#x2F;div&gt;
+&lt;p&gt;Email is preferred, I will respond to any messages within 24 hours.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;service-request-form&quot;&gt;Service Request Form&lt;&#x2F;h3&gt;
+&lt;p&gt;If you have a specific service request you can fill out the form linked below.&lt;&#x2F;p&gt;
+&lt;div class=&quot;flex-col gap-md mb-md&quot;&gt;
+    &lt;a href=&quot;&#x2F;contact-form&quot; class=&quot;btn&quot;&gt;Service Request Form&lt;&#x2F;a&gt;
+&lt;&#x2F;div&gt;</description>
+      </item>
+      <item>
+          <title>Press Kit</title>
           <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
           <author>Unknown</author>
           <link>https://jmit.ca/press/</link>
           <guid>https://jmit.ca/press/</guid>
-          <description xml:base="https://jmit.ca/press/">&lt;h2 id=&quot;copyable-bio&quot;&gt;Copyable Bio&lt;&#x2F;h2&gt;
+          <description xml:base="https://jmit.ca/press/">&lt;h3 id=&quot;copyable-bio&quot;&gt;Copyable Bio&lt;&#x2F;h3&gt;
 &lt;div class=&quot;code-wrapper animate-on-hover&quot; data-raw-code=&quot;jmit.ca is a home IT services company, operating in Haldimand &amp;amp; Norfolk County. 
 
 It is sole-proprietorship, owned and operated by myself. 
@@ -65,12 +94,12 @@ Founded by James Mitchell in 2026.&quot;&gt;
     
 &lt;&#x2F;div&gt;
 
-&lt;h2 id=&quot;logo-downloads&quot;&gt;Logo Downloads&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;logo-downloads&quot;&gt;Logo Downloads&lt;&#x2F;h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;jmit.ca&#x2F;press&#x2F;logo_512x512.png&quot;&gt;512x512 (PNG)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;jmit.ca&#x2F;press&#x2F;logo_1200x630.png&quot;&gt;1200x630 (PNG)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
-&lt;h2 id=&quot;media-contact&quot;&gt;Media Contact&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;media-contact&quot;&gt;Media Contact&lt;&#x2F;h3&gt;
 &lt;p&gt;For press inquiries, interviews, or media requests email me at &lt;a href=&quot;mailto:mail@jmit.ca&quot;&gt;mail@jmit.ca&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 &lt;p&gt;Please allow up to 24 hours for a response.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;guidelines&quot;&gt;Guidelines&lt;&#x2F;h3&gt;
@@ -79,7 +108,7 @@ Founded by James Mitchell in 2026.&quot;&gt;
 &lt;li&gt;Use the business name &lt;strong&gt;jmit.ca&lt;&#x2F;strong&gt; when referencing the website.&lt;&#x2F;li&gt;
 &lt;li&gt;For quotes or attributions, please confirm wording before publication.&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
-&lt;h2 id=&quot;in-the-news&quot;&gt;In the News&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;in-the-news&quot;&gt;In the News&lt;&#x2F;h3&gt;
 &lt;p&gt;&lt;em&gt;No press mentions yet — check back soon.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 &lt;!-- - [Article Title](https:&#x2F;&#x2F;example.com) — *Publication Name*, February 2026 --&gt;
 </description>
@@ -92,18 +121,7 @@ Founded by James Mitchell in 2026.&quot;&gt;
           <guid>https://jmit.ca/remote/</guid>
           <description xml:base="https://jmit.ca/remote/">&lt;figure class=&quot;figure mx-auto float-md-right w-100 w-md-40 w-sm-75&quot;&gt;
     
-    
     &lt;img src=&quot;https:&#x2F;&#x2F;jmit.ca&#x2F;remote&#x2F;logo-header.svg&quot; alt=&quot;RustDesk Logo&quot;&gt;
-    
-    &lt;figcaption class=&quot;flex-row gap-xs text-sans-serif text-sm p-xs&quot;&gt;
-        &lt;span class=&quot;meta-icon&quot;&gt;
-            &lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; width=&quot;32&quot; height=&quot;32&quot; class=&quot;svgicon&quot; fill=&quot;currentColor&quot; viewBox=&quot;0 0 256 256&quot;&gt;&lt;path d=&quot;M208,56H180.28L166.65,35.56A8,8,0,0,0,160,32H96a8,8,0,0,0-6.65,3.56L75.71,56H48A24,24,0,0,0,24,80V192a24,24,0,0,0,24,24H208a24,24,0,0,0,24-24V80A24,24,0,0,0,208,56Zm8,136a8,8,0,0,1-8,8H48a8,8,0,0,1-8-8V80a8,8,0,0,1,8-8H80a8,8,0,0,0,6.66-3.56L100.28,48h55.43l13.63,20.44A8,8,0,0,0,176,72h32a8,8,0,0,1,8,8ZM128,88a44,44,0,1,0,44,44A44.05,44.05,0,0,0,128,88Zm0,72a28,28,0,1,1,28-28A28,28,0,0,1,128,160Z&quot;&gt;&lt;&#x2F;path&gt;&lt;&#x2F;svg&gt;
-        &lt;&#x2F;span&gt;
-
-        &lt;a class=&quot;stretched-link text-wrap&quot; href=&quot;https:&#x2F;&#x2F;jmit.ca&#x2F;remote&#x2F;logo-header.svg&quot; target=&quot;_blank&quot;&gt;
-            RustDesk Logo
-        &lt;&#x2F;a&gt;
-    &lt;&#x2F;figcaption&gt;
 &lt;&#x2F;figure&gt;
 &lt;p&gt;If I have directed you to this page, then please download and run this program to start a remote support session.&lt;&#x2F;p&gt;
 &lt;div class=&quot;flex-col gap-md mb-md&quot;&gt;
@@ -141,28 +159,27 @@ Founded by James Mitchell in 2026.&quot;&gt;
           <author>Unknown</author>
           <link>https://jmit.ca/privacy/</link>
           <guid>https://jmit.ca/privacy/</guid>
-          <description xml:base="https://jmit.ca/privacy/">&lt;h2 id=&quot;my-privacy-policy&quot;&gt;My Privacy Policy&lt;&#x2F;h2&gt;
-&lt;p&gt;This policy covers how I handle your information when you use my services or contact me through jmit.ca.&lt;&#x2F;p&gt;
-&lt;h2 id=&quot;what-i-collect&quot;&gt;What I Collect&lt;&#x2F;h2&gt;
+          <description xml:base="https://jmit.ca/privacy/">&lt;p&gt;This policy covers how I handle your information when you use my services or contact me through jmit.ca.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;what-i-collect&quot;&gt;What I Collect&lt;&#x2F;h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Contact Details&lt;&#x2F;strong&gt;. You provide your name, email, phone number if you choose to share it, and details about your issue. This comes through the service request form or by Email, Discord, etc.&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;strong&gt;Remote Sessions&lt;&#x2F;strong&gt;. During remote support, I can see your screen. I do not record sessions, retain screenshots, or store any of your personal files.&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;strong&gt;Payments&lt;&#x2F;strong&gt;. e-Transfer payments are processed through Interac. I do not see or store your banking details.&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;strong&gt;Site Analytics&lt;&#x2F;strong&gt;. I do collect visitor statistics for the jmit.ca website through my own infrastructure (no third-parties such as Google). I also store browser data for functional purposes of the jmit.ca website.&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
-&lt;h2 id=&quot;what-i-don-t-collect&quot;&gt;What I Don’t Collect&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;what-i-don-t-collect&quot;&gt;What I Don’t Collect&lt;&#x2F;h3&gt;
 &lt;ul&gt;
 &lt;li&gt;I do not sell, share, or give your information to anyone.&lt;&#x2F;li&gt;
 &lt;li&gt;I do not store passwords or credentials you share during a support session.&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
-&lt;h2 id=&quot;how-your-information-is-used&quot;&gt;How Your Information Is Used&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;how-your-information-is-used&quot;&gt;How Your Information Is Used&lt;&#x2F;h3&gt;
 &lt;p&gt;Your information is used to respond to your inquiry, provide the service you’ve requested, and send invoices or follow up on completed work. Nothing else.&lt;&#x2F;p&gt;
-&lt;h2 id=&quot;third-party-services&quot;&gt;Third-Party Services&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;third-party-services&quot;&gt;Third-Party Services&lt;&#x2F;h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Google Forms.&lt;&#x2F;strong&gt; The service request form is hosted by Google. Their &lt;a rel=&quot;noopener external&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;policies.google.com&#x2F;privacy&quot;&gt;privacy policy&lt;&#x2F;a&gt; applies to form submissions.&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;strong&gt;RustDesk.&lt;&#x2F;strong&gt; Remote support sessions use RustDesk, connected through a server that I operate. Session data passes through my server only during the active session and is not stored.&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
-&lt;h2 id=&quot;data-retention&quot;&gt;Data Retention&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;data-retention&quot;&gt;Data Retention&lt;&#x2F;h3&gt;
 &lt;p&gt;I keep your contact information and service history for bookkeeping and follow-up. If you want me to delete your information, I will do so. Just contact me directly with your request.&lt;&#x2F;p&gt;
 &lt;p&gt;See the &lt;a href=&quot;&#x2F;contact&quot;&gt;contacts page&lt;&#x2F;a&gt; for more details.&lt;&#x2F;p&gt;
 </description>
@@ -173,8 +190,7 @@ Founded by James Mitchell in 2026.&quot;&gt;
           <author>Unknown</author>
           <link>https://jmit.ca/questions/</link>
           <guid>https://jmit.ca/questions/</guid>
-          <description xml:base="https://jmit.ca/questions/">&lt;h2 id=&quot;common-questions&quot;&gt;Common Questions&lt;&#x2F;h2&gt;
-&lt;h3 id=&quot;what-is-remote-support&quot;&gt;What is Remote Support?&lt;&#x2F;h3&gt;
+          <description xml:base="https://jmit.ca/questions/">&lt;h3 id=&quot;what-is-remote-support&quot;&gt;What is Remote Support?&lt;&#x2F;h3&gt;
 &lt;p&gt;I connect to your computer using secure remote access software. You can see everything I’m doing on your screen. Most issues can be resolved this way. It means we both get to stay home. 😉&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;securty-during-remote-sessions&quot;&gt;Securty during Remote Sessions&lt;&#x2F;h3&gt;
 &lt;p&gt;I use industry-standard remote access tools. You can watch everything happening on screen, and you can disconnect the session at any time. I &lt;em&gt;do not&lt;&#x2F;em&gt; store any of your personal data.&lt;&#x2F;p&gt;
@@ -206,8 +222,7 @@ Founded by James Mitchell in 2026.&quot;&gt;
           <author>Unknown</author>
           <link>https://jmit.ca/services/</link>
           <guid>https://jmit.ca/services/</guid>
-          <description xml:base="https://jmit.ca/services/">&lt;h2 id=&quot;service-information&quot;&gt;Service Information&lt;&#x2F;h2&gt;
-&lt;div class=&quot;table-wrapper&quot;&gt;
+          <description xml:base="https://jmit.ca/services/">&lt;div class=&quot;table-wrapper&quot;&gt;
 &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Service&lt;&#x2F;th&gt;&lt;th&gt;Price&lt;&#x2F;th&gt;&lt;th&gt;Rate&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
 &lt;tr&gt;&lt;td&gt;Bench Service&lt;&#x2F;td&gt;&lt;td&gt;$50 CAD&lt;&#x2F;td&gt;&lt;td&gt;hourly&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;tr&gt;&lt;td&gt;Remote Support&lt;&#x2F;td&gt;&lt;td&gt;$50 CAD&lt;&#x2F;td&gt;&lt;td&gt;hourly&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
@@ -251,45 +266,45 @@ Founded by James Mitchell in 2026.&quot;&gt;
           <author>Unknown</author>
           <link>https://jmit.ca/terms/</link>
           <guid>https://jmit.ca/terms/</guid>
-          <description xml:base="https://jmit.ca/terms/">&lt;p&gt;These terms apply to all services that I provide through jmit.ca. They must be agreed upon before any work can proceed.&lt;&#x2F;p&gt;
-&lt;h2 id=&quot;estimates-and-pricing&quot;&gt;Estimates and Pricing&lt;&#x2F;h2&gt;
+          <description xml:base="https://jmit.ca/terms/">&lt;p&gt;These terms apply to all services that I provide through &lt;strong&gt;jmit.ca&lt;&#x2F;strong&gt;. They must be agreed upon before any work can proceed.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;estimates-and-pricing&quot;&gt;Estimates and Pricing&lt;&#x2F;h3&gt;
 &lt;p&gt;Current pricing is listed on the &lt;a href=&quot;&#x2F;services&quot;&gt;services page&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 &lt;p&gt;I will give you an estimate before any hourly rated work is done. This does not constitute a guarantee of total cost. Every reasonable effort will be made to adhere to the estimate, and I will notify you promptly if any additional work is required for completion of the service.&lt;&#x2F;p&gt;
 &lt;p&gt;You are free to cancel the service at any time, and will only be charged for the time that has been spent.&lt;&#x2F;p&gt;
-&lt;h2 id=&quot;payment&quot;&gt;Payment&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;payment&quot;&gt;Payment&lt;&#x2F;h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Payment is due on completion of work.&lt;&#x2F;li&gt;
 &lt;li&gt;Accepted payment methods: cash or Interac e-Transfer sent to &lt;a href=&quot;mailto:mail@jmit.ca&quot;&gt;mail@jmit.ca&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
-&lt;h2 id=&quot;remote-support&quot;&gt;Remote Support&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;remote-support&quot;&gt;Remote Support&lt;&#x2F;h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Remote support sessions require your consent. You can see everything happening on your screen and can disconnect at any time.&lt;&#x2F;li&gt;
 &lt;li&gt;I do not access files, accounts, or data beyond what’s needed to resolve your issue.&lt;&#x2F;li&gt;
 &lt;li&gt;I am not responsible for pre-existing issues discovered during a session.&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;p&gt;For more information, see the &lt;a href=&quot;&#x2F;remote&quot;&gt;remote support page&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
-&lt;h2 id=&quot;in-home-support&quot;&gt;In-Home Support&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;in-home-support&quot;&gt;In-Home Support&lt;&#x2F;h3&gt;
 &lt;ul&gt;
 &lt;li&gt;I offer In-home support to any address in Haldimand &#x2F; Norfolk County.&lt;&#x2F;li&gt;
 &lt;li&gt;You will make every reasonable effort to provide a respectful and safe work environment.&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
-&lt;h2 id=&quot;liability&quot;&gt;Liability&lt;&#x2F;h2&gt;
-&lt;p&gt;I will do my absolute best to resolve your issue, but &lt;strong&gt;success cannot be guaranteed.&lt;&#x2F;strong&gt; Some problems cannot be fixed, and some hardware is beyond repair. By agreeing to these terms, you acknowledge the following:&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;liability&quot;&gt;Liability&lt;&#x2F;h3&gt;
+&lt;p&gt;I will do my absolute best to resolve your issue, but &lt;mark&gt;success cannot be guaranteed.&lt;&#x2F;mark&gt; Some problems cannot be fixed, and some hardware is beyond repair. By agreeing to these terms, you acknowledge the following:&lt;&#x2F;p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Data loss.&lt;&#x2F;strong&gt; I am not responsible for any data loss that occurs before, during, or after service. It is your responsibility to back up your data before any work begins. I will remind you, but the responsibility is yours alone.&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;strong&gt;Pre-existing conditions.&lt;&#x2F;strong&gt; I am not responsible for issues that existed before service began, including hardware failure, software corruption, or malware that was already present on your system.&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;strong&gt;Third-party products.&lt;&#x2F;strong&gt; I am not responsible for the behaviour of software, hardware, or services made by other companies. If a Windows update breaks something after I leave, I cannot be held responsible.&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;strong&gt;Limit of liability.&lt;&#x2F;strong&gt; My total liability for any service is limited to the amount you paid for that service. I am not liable for any indirect, incidental, or consequential damages, including but not limited to lost revenue, lost data, or downtime.&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;strong&gt;No warranty.&lt;&#x2F;strong&gt; All services are provided as-is, with no express or implied warranty of any kind. I am absolutely willing to help with follow-up questions or issues when I can — just know that any after-service support is provided as a courtesy and cannot be guaranteed.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;No warranty.&lt;&#x2F;strong&gt; All services are provided as-is, with no express or implied warranty of any kind. &lt;mark&gt;I am absolutely willing to help&lt;&#x2F;mark&gt; with follow-up questions or issues when I can — just know that any after-service support is provided as a courtesy and cannot be guaranteed.&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
-&lt;h2 id=&quot;custom-pc-builds&quot;&gt;Custom PC Builds&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;custom-pc-builds&quot;&gt;Custom PC Builds&lt;&#x2F;h3&gt;
 &lt;ul&gt;
 &lt;li&gt;You are responsible for aquiring the neccessary components of the build. I can offer guidance on part selection and can assist in placing orders.&lt;&#x2F;li&gt;
 &lt;li&gt;My labour charge covers assembly and initial setup.&lt;&#x2F;li&gt;
 &lt;li&gt;Components are covered by their manufacturer warranties, not by me.&lt;&#x2F;li&gt;
 &lt;li&gt;I guarantee my assembly work — I take full responsibility for errors made in my own work.&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
-&lt;h2 id=&quot;cancellations&quot;&gt;Cancellations&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;cancellations&quot;&gt;Cancellations&lt;&#x2F;h3&gt;
 &lt;p&gt;You are free to cancel scheduled service before the agreed upon date and time. It will be very much appreciated if you give as much advance notice as possible.&lt;&#x2F;p&gt;
 </description>
       </item>
