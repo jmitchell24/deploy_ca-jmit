@@ -15,7 +15,7 @@
           <link>https://jmit.ca/press/</link>
           <guid>https://jmit.ca/press/</guid>
           <description xml:base="https://jmit.ca/press/">&lt;h2 id=&quot;copyable-bio&quot;&gt;Copyable Bio&lt;&#x2F;h2&gt;
-&lt;x-code-wrapper class=&quot;animate-on-hover&quot; data-raw-code=&quot;jmit.ca is a home IT services company, operating in Haldimand &amp;amp; Norfolk County. 
+&lt;div class=&quot;code-wrapper animate-on-hover&quot; data-raw-code=&quot;jmit.ca is a home IT services company, operating in Haldimand &amp;amp; Norfolk County. 
 
 It is sole-proprietorship, owned and operated by myself. 
 I have industry experience providing high-quality IT services, 
@@ -55,15 +55,15 @@ Founded by James Mitchell in 2026.&quot;&gt;
 
     
     
-    &lt;x-code-footer&gt;
-        &lt;x-code-footer-lang&gt;&lt;&#x2F;x-code-footer-lang&gt;
+    &lt;div class=&quot;code-footer&quot;&gt;
+        &lt;span class=&quot;code-footer-lang&quot;&gt;&lt;&#x2F;span&gt;
         &lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; width=&quot;32&quot; height=&quot;32&quot; class=&quot;svgicon&quot; fill=&quot;currentColor&quot; viewBox=&quot;0 0 256 256&quot;&gt;&lt;path d=&quot;M69.12,94.15,28.5,128l40.62,33.85a8,8,0,1,1-10.24,12.29l-48-40a8,8,0,0,1,0-12.29l48-40a8,8,0,0,1,10.24,12.3Zm176,27.7-48-40a8,8,0,1,0-10.24,12.3L227.5,128l-40.62,33.85a8,8,0,1,0,10.24,12.29l48-40a8,8,0,0,0,0-12.29ZM162.73,32.48a8,8,0,0,0-10.25,4.79l-64,176a8,8,0,0,0,4.79,10.26A8.14,8.14,0,0,0,96,224a8,8,0,0,0,7.52-5.27l64-176A8,8,0,0,0,162.73,32.48Z&quot;&gt;&lt;&#x2F;path&gt;&lt;&#x2F;svg&gt;
-        &lt;x-code-footer-chars&gt;&lt;&#x2F;x-code-footer-chars&gt;
+        &lt;span class=&quot;code-footer-chars&quot;&gt;&lt;&#x2F;span&gt;
         &lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; width=&quot;32&quot; height=&quot;32&quot; class=&quot;svgicon&quot; fill=&quot;currentColor&quot; viewBox=&quot;0 0 256 256&quot;&gt;&lt;path d=&quot;M213.66,82.34l-56-56A8,8,0,0,0,152,24H56A16,16,0,0,0,40,40V216a16,16,0,0,0,16,16H200a16,16,0,0,0,16-16V88A8,8,0,0,0,213.66,82.34ZM160,51.31,188.69,80H160ZM200,216H56V40h88V88a8,8,0,0,0,8,8h48V216Zm-42.34-61.66a8,8,0,0,1,0,11.32l-24,24a8,8,0,0,1-11.32,0l-24-24a8,8,0,0,1,11.32-11.32L120,164.69V120a8,8,0,0,1,16,0v44.69l10.34-10.35A8,8,0,0,1,157.66,154.34Z&quot;&gt;&lt;&#x2F;path&gt;&lt;&#x2F;svg&gt;
-        &lt;x-code-footer-copy&gt;&lt;&#x2F;x-code-footer-copy&gt;
-    &lt;&#x2F;x-code-footer&gt;
+        &lt;span class=&quot;code-footer-copy&quot;&gt;&lt;&#x2F;span&gt;
+    &lt;&#x2F;div&gt;
     
-&lt;&#x2F;x-code-wrapper&gt;
+&lt;&#x2F;div&gt;
 
 &lt;h2 id=&quot;logo-downloads&quot;&gt;Logo Downloads&lt;&#x2F;h2&gt;
 &lt;ul&gt;
@@ -96,9 +96,9 @@ Founded by James Mitchell in 2026.&quot;&gt;
     &lt;img src=&quot;https:&#x2F;&#x2F;jmit.ca&#x2F;remote&#x2F;logo-header.svg&quot; alt=&quot;RustDesk Logo&quot;&gt;
     
     &lt;figcaption class=&quot;flex-row gap-xs text-sans-serif text-sm p-xs&quot;&gt;
-        &lt;x-meta-icon&gt;
+        &lt;span class=&quot;meta-icon&quot;&gt;
             &lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; width=&quot;32&quot; height=&quot;32&quot; class=&quot;svgicon&quot; fill=&quot;currentColor&quot; viewBox=&quot;0 0 256 256&quot;&gt;&lt;path d=&quot;M208,56H180.28L166.65,35.56A8,8,0,0,0,160,32H96a8,8,0,0,0-6.65,3.56L75.71,56H48A24,24,0,0,0,24,80V192a24,24,0,0,0,24,24H208a24,24,0,0,0,24-24V80A24,24,0,0,0,208,56Zm8,136a8,8,0,0,1-8,8H48a8,8,0,0,1-8-8V80a8,8,0,0,1,8-8H80a8,8,0,0,0,6.66-3.56L100.28,48h55.43l13.63,20.44A8,8,0,0,0,176,72h32a8,8,0,0,1,8,8ZM128,88a44,44,0,1,0,44,44A44.05,44.05,0,0,0,128,88Zm0,72a28,28,0,1,1,28-28A28,28,0,0,1,128,160Z&quot;&gt;&lt;&#x2F;path&gt;&lt;&#x2F;svg&gt;
-        &lt;&#x2F;x-meta-icon&gt;
+        &lt;&#x2F;span&gt;
 
         &lt;a class=&quot;stretched-link text-wrap&quot; href=&quot;https:&#x2F;&#x2F;jmit.ca&#x2F;remote&#x2F;logo-header.svg&quot; target=&quot;_blank&quot;&gt;
             RustDesk Logo
@@ -119,7 +119,7 @@ Founded by James Mitchell in 2026.&quot;&gt;
           <author>Unknown</author>
           <link>https://jmit.ca/contact/</link>
           <guid>https://jmit.ca/contact/</guid>
-          <description xml:base="https://jmit.ca/contact/">&lt;x-table-wrapper&gt;
+          <description xml:base="https://jmit.ca/contact/">&lt;div class=&quot;table-wrapper&quot;&gt;
 &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;&lt;&#x2F;th&gt;&lt;th&gt;&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
 &lt;tr&gt;&lt;td&gt;Email&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;mailto:mail@jmit.ca&quot;&gt;mail@jmit.ca&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;tr&gt;&lt;td&gt;Text &amp;amp; Voice&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;tel:+12269735817&quot;&gt;+12269735817&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
@@ -127,7 +127,7 @@ Founded by James Mitchell in 2026.&quot;&gt;
 &lt;tr&gt;&lt;td&gt;Discord&lt;&#x2F;td&gt;&lt;td&gt;Add ‘jmit.ca’&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
 
-&lt;&#x2F;x-table-wrapper&gt;
+&lt;&#x2F;div&gt;
 &lt;p&gt;Email is preferred, I will respond to any messages within 24 hours.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;service-request-form&quot;&gt;Service Request Form&lt;&#x2F;h3&gt;
 &lt;p&gt;If you have a specific service request you can fill out the form linked below.&lt;&#x2F;p&gt;
@@ -173,26 +173,27 @@ Founded by James Mitchell in 2026.&quot;&gt;
           <author>Unknown</author>
           <link>https://jmit.ca/questions/</link>
           <guid>https://jmit.ca/questions/</guid>
-          <description xml:base="https://jmit.ca/questions/">&lt;h2 id=&quot;what-is-remote-support&quot;&gt;What is Remote Support?&lt;&#x2F;h2&gt;
+          <description xml:base="https://jmit.ca/questions/">&lt;h2 id=&quot;common-questions&quot;&gt;Common Questions&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;what-is-remote-support&quot;&gt;What is Remote Support?&lt;&#x2F;h3&gt;
 &lt;p&gt;I connect to your computer using secure remote access software. You can see everything I’m doing on your screen. Most issues can be resolved this way. It means we both get to stay home. 😉&lt;&#x2F;p&gt;
-&lt;h2 id=&quot;securty-during-remote-sessions&quot;&gt;Securty during Remote Sessions&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;securty-during-remote-sessions&quot;&gt;Securty during Remote Sessions&lt;&#x2F;h3&gt;
 &lt;p&gt;I use industry-standard remote access tools. You can watch everything happening on screen, and you can disconnect the session at any time. I &lt;em&gt;do not&lt;&#x2F;em&gt; store any of your personal data.&lt;&#x2F;p&gt;
-&lt;h2 id=&quot;what-if-your-problem-can-t-be-fixed-remotely&quot;&gt;What if your problem can’t be fixed remotely?&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;what-if-your-problem-can-t-be-fixed-remotely&quot;&gt;What if your problem can’t be fixed remotely?&lt;&#x2F;h3&gt;
 &lt;p&gt;I offer in-home support in &lt;strong&gt;Haldimand&lt;&#x2F;strong&gt; and &lt;strong&gt;Norfolk&lt;&#x2F;strong&gt; County.&lt;&#x2F;p&gt;
-&lt;h2 id=&quot;what-payments-do-i-accept&quot;&gt;What payments do I accept?&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;what-payments-do-i-accept&quot;&gt;What payments do I accept?&lt;&#x2F;h3&gt;
 &lt;p&gt;I accept cash payment, as well as Interac e-Transfer.&lt;&#x2F;p&gt;
-&lt;h2 id=&quot;do-i-work-on-android-devices-macs-or-other-apple-products&quot;&gt;Do I work on Android devices, Macs or other Apple products?&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;do-i-work-on-android-devices-macs-or-other-apple-products&quot;&gt;Do I work on Android devices, Macs or other Apple products?&lt;&#x2F;h3&gt;
 &lt;p&gt;My focus is Windows and Linux systems. I have limited experience repairing and supporting Apple&#x2F;Android devices. If you have an Apple&#x2F;Android related question, feel free to reach out. I may still be able to help.&lt;&#x2F;p&gt;
-&lt;h2 id=&quot;do-you-sell-computer-parts&quot;&gt;Do you sell computer parts?&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;do-you-sell-computer-parts&quot;&gt;Do you sell computer parts?&lt;&#x2F;h3&gt;
 &lt;p&gt;For custom builds, I help you choose the right parts for your budget and build the system for you. You purchase the parts directly (I can send you the links), or I can order them on your behalf.&lt;&#x2F;p&gt;
-&lt;h2 id=&quot;what-are-my-hours-of-operation&quot;&gt;What are my hours of operation?&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;what-are-my-hours-of-operation&quot;&gt;What are my hours of operation?&lt;&#x2F;h3&gt;
 &lt;p&gt;I am available for work &lt;em&gt;9:00am&lt;&#x2F;em&gt; - &lt;em&gt;5:00pm&lt;&#x2F;em&gt;, every day of the week. I respond to all inquiries within 24 business hours.&lt;&#x2F;p&gt;
-&lt;h2 id=&quot;where-do-you-begin&quot;&gt;Where do you begin?&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;where-do-you-begin&quot;&gt;Where do you begin?&lt;&#x2F;h3&gt;
 &lt;div class=&quot;flex-col gap-md mb-md&quot;&gt;
     &lt;a href=&quot;&#x2F;contact-form&quot; class=&quot;btn&quot;&gt;Fill out this Service Request Form&lt;&#x2F;a&gt;
 &lt;&#x2F;div&gt;
 &lt;p&gt;Or contact me directly. See the &lt;a href=&quot;&#x2F;contact&quot;&gt;contacts page&lt;&#x2F;a&gt; for more details.&lt;&#x2F;p&gt;
-&lt;h2 id=&quot;do-you-provide-any-pro-bono-free-services&quot;&gt;Do you provide any pro-bono (free) services?&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;do-you-provide-any-pro-bono-free-services&quot;&gt;Do you provide any pro-bono (free) services?&lt;&#x2F;h3&gt;
 &lt;p&gt;For the initial launch of jmit.ca, I am offering pro-bono services on a case-by-case basis.&lt;&#x2F;p&gt;
 &lt;p&gt;I will choose at my sole discretion what services to provide, and to whom. I will honour completely any agreements that I make for service, but I reserve the right to stop accepting new pro-bono work at any time.&lt;&#x2F;p&gt;
 &lt;p&gt;Paid service must be prioritised to sustain the business, but otherwise I will maintain the same high standard of service and timeliness that I provide to paying customers.&lt;&#x2F;p&gt;
@@ -206,7 +207,7 @@ Founded by James Mitchell in 2026.&quot;&gt;
           <link>https://jmit.ca/services/</link>
           <guid>https://jmit.ca/services/</guid>
           <description xml:base="https://jmit.ca/services/">&lt;h2 id=&quot;service-information&quot;&gt;Service Information&lt;&#x2F;h2&gt;
-&lt;x-table-wrapper&gt;
+&lt;div class=&quot;table-wrapper&quot;&gt;
 &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Service&lt;&#x2F;th&gt;&lt;th&gt;Price&lt;&#x2F;th&gt;&lt;th&gt;Rate&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
 &lt;tr&gt;&lt;td&gt;Bench Service&lt;&#x2F;td&gt;&lt;td&gt;$50 CAD&lt;&#x2F;td&gt;&lt;td&gt;hourly&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;tr&gt;&lt;td&gt;Remote Support&lt;&#x2F;td&gt;&lt;td&gt;$50 CAD&lt;&#x2F;td&gt;&lt;td&gt;hourly&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
@@ -215,7 +216,7 @@ Founded by James Mitchell in 2026.&quot;&gt;
 &lt;tr&gt;&lt;td&gt;Custom PC Assembly&lt;&#x2F;td&gt;&lt;td&gt;$150 CAD&lt;&#x2F;td&gt;&lt;td&gt;flat rate&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
 
-&lt;&#x2F;x-table-wrapper&gt;
+&lt;&#x2F;div&gt;
 &lt;p&gt;Remote support is preferred when possible. In-home visits are available in Haldimand &amp;amp; Norfolk County.&lt;&#x2F;p&gt;
 &lt;p&gt;Payment is due on completion of work. I accept the following:&lt;&#x2F;p&gt;
 &lt;ul&gt;
@@ -223,9 +224,9 @@ Founded by James Mitchell in 2026.&quot;&gt;
 &lt;li&gt;Cash&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;p&gt;I am available for work &lt;em&gt;9:00am&lt;&#x2F;em&gt; - &lt;em&gt;5:00pm&lt;&#x2F;em&gt;, every day of the week.&lt;&#x2F;p&gt;
-&lt;h2 id=&quot;bench-service&quot;&gt;Bench Service&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;bench-service&quot;&gt;Bench Service&lt;&#x2F;h3&gt;
 &lt;p&gt;This is my base hourly rate for any work done in my workshop. This includes diagnostics, troubleshooting, repair, and configuration.&lt;&#x2F;p&gt;
-&lt;h2 id=&quot;remote-in-home-support&quot;&gt;Remote &amp;amp; In-Home Support&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;remote-in-home-support&quot;&gt;Remote &amp;amp; In-Home Support&lt;&#x2F;h3&gt;
 &lt;p&gt;I can offer personal (non-commercial) IT support. This includes but is not limited to:&lt;&#x2F;p&gt;
 &lt;ul&gt;
 &lt;li&gt;New computer setup&lt;&#x2F;li&gt;
@@ -233,12 +234,12 @@ Founded by James Mitchell in 2026.&quot;&gt;
 &lt;li&gt;Fixing Router &#x2F; Network misconfiguration&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;p&gt;If you have an issue that isn’t listed please feel free to reach out. My knowledge is broad and it is likely that I can create a solution for you.&lt;&#x2F;p&gt;
-&lt;h2 id=&quot;malware-remediation&quot;&gt;Malware Remediation&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;malware-remediation&quot;&gt;Malware Remediation&lt;&#x2F;h3&gt;
 &lt;p&gt;A complete system diagnostic scan, followed by removal of all detected malware. If you have been the victim of an online or phone scam then this service can help you.&lt;&#x2F;p&gt;
-&lt;h2 id=&quot;custom-pc-assembly&quot;&gt;Custom PC Assembly&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;custom-pc-assembly&quot;&gt;Custom PC Assembly&lt;&#x2F;h3&gt;
 &lt;p&gt;An end-to-end custom PC assembly service, offered at a flat-rate fee. I provide advice on part selection given your requirements and budget, and perform full assembly of your new machine, as well as initial software setup.&lt;&#x2F;p&gt;
 &lt;p&gt;I am very detail oriented, and strive to ensure that my customers are fully satisfied e.g. ensuring good cable management and RGB lighting effect installation.&lt;&#x2F;p&gt;
-&lt;h2 id=&quot;other-services&quot;&gt;Other Services&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;other-services&quot;&gt;Other Services&lt;&#x2F;h3&gt;
 &lt;p&gt;If you are in need of an IT solution that hasn’t been listed on this page, feel free to reach out. We can have a discussion about your needs, and I might be able to offer you a solution.&lt;&#x2F;p&gt;
 &lt;p&gt;Beyond my experience in IT support, I have an extensive education in software development. I can build websites, internal tools, etc…&lt;&#x2F;p&gt;
 &lt;p&gt;If you are interested please contact me directly. See the &lt;a href=&quot;&#x2F;contact&quot;&gt;contact pages&lt;&#x2F;a&gt; for more details.&lt;&#x2F;p&gt;
