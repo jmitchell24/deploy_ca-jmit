@@ -3,7 +3,8 @@
     <channel>
       <title>jmit.ca</title>
       <link>https://jmit.ca</link>
-      <description>jmit.ca — Home Technology Solutions. IT services in Haldimand &amp; Norfolk County, Ontario. Tech support, PC repairs, and custom PC building. </description>
+      <description>jmit.ca — Home Technology Solutions. IT service and repair for Haldimand &amp; Norfolk County, Ontario. 
+</description>
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://jmit.ca/rss.xml" rel="self" type="application/rss+xml"/>
@@ -30,12 +31,9 @@
 &lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
 
 &lt;&#x2F;div&gt;
-&lt;p&gt;Email is preferred, I will respond to any messages within 24 hours.&lt;&#x2F;p&gt;
-&lt;h3 id=&quot;service-request-form&quot;&gt;Service Request Form&lt;&#x2F;h3&gt;
-&lt;p&gt;If you have a specific service request you can fill out the form linked below.&lt;&#x2F;p&gt;
-&lt;div class=&quot;flex-col gap-md mb-md&quot;&gt;
-    &lt;a href=&quot;&#x2F;contact-form&quot; class=&quot;btn&quot;&gt;Service Request Form&lt;&#x2F;a&gt;
-&lt;&#x2F;div&gt;</description>
+&lt;p&gt;Feel free to contact me via any method listed above, though I do prefer email.&lt;&#x2F;p&gt;
+&lt;p&gt;I will respond to any messages or inquiries within 24 hours.&lt;&#x2F;p&gt;
+</description>
       </item>
       <item>
           <title>Press Kit</title>
@@ -132,28 +130,6 @@ Founded by James Mitchell in 2026.&quot;&gt;
 </description>
       </item>
       <item>
-          <title>Contact</title>
-          <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
-          <author>Unknown</author>
-          <link>https://jmit.ca/contact/</link>
-          <guid>https://jmit.ca/contact/</guid>
-          <description xml:base="https://jmit.ca/contact/">&lt;div class=&quot;table-wrapper&quot;&gt;
-&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;&lt;&#x2F;th&gt;&lt;th&gt;&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
-&lt;tr&gt;&lt;td&gt;Email&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;mailto:mail@jmit.ca&quot;&gt;mail@jmit.ca&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;Text &amp;amp; Voice&lt;&#x2F;td&gt;&lt;td&gt;&lt;a href=&quot;tel:+12269735817&quot;&gt;+12269735817&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;Facebook&lt;&#x2F;td&gt;&lt;td&gt;&lt;a rel=&quot;noopener external&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.facebook.com&#x2F;profile.php?id=61588036981363&quot;&gt;Business Page Link&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;Discord&lt;&#x2F;td&gt;&lt;td&gt;Add ‘jmit.ca’&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
-
-&lt;&#x2F;div&gt;
-&lt;p&gt;Email is preferred, I will respond to any messages within 24 hours.&lt;&#x2F;p&gt;
-&lt;h3 id=&quot;service-request-form&quot;&gt;Service Request Form&lt;&#x2F;h3&gt;
-&lt;p&gt;If you have a specific service request you can fill out the form linked below.&lt;&#x2F;p&gt;
-&lt;div class=&quot;flex-col gap-md mb-md&quot;&gt;
-    &lt;a href=&quot;&#x2F;contact-form&quot; class=&quot;btn&quot;&gt;Service Request Form&lt;&#x2F;a&gt;
-&lt;&#x2F;div&gt;</description>
-      </item>
-      <item>
           <title>Privacy Policy</title>
           <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
           <author>Unknown</author>
@@ -176,12 +152,10 @@ Founded by James Mitchell in 2026.&quot;&gt;
 &lt;p&gt;Your information is used to respond to your inquiry, provide the service you’ve requested, and send invoices or follow up on completed work. Nothing else.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;third-party-services&quot;&gt;Third-Party Services&lt;&#x2F;h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Google Forms.&lt;&#x2F;strong&gt; The service request form is hosted by Google. Their &lt;a rel=&quot;noopener external&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;policies.google.com&#x2F;privacy&quot;&gt;privacy policy&lt;&#x2F;a&gt; applies to form submissions.&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;strong&gt;RustDesk.&lt;&#x2F;strong&gt; Remote support sessions use RustDesk, connected through a server that I operate. Session data passes through my server only during the active session and is not stored.&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h3 id=&quot;data-retention&quot;&gt;Data Retention&lt;&#x2F;h3&gt;
 &lt;p&gt;I keep your contact information and service history for bookkeeping and follow-up. If you want me to delete your information, I will do so. Just contact me directly with your request.&lt;&#x2F;p&gt;
-&lt;p&gt;See the &lt;a href=&quot;&#x2F;contact&quot;&gt;contacts page&lt;&#x2F;a&gt; for more details.&lt;&#x2F;p&gt;
 </description>
       </item>
       <item>
@@ -222,7 +196,10 @@ Founded by James Mitchell in 2026.&quot;&gt;
           <author>Unknown</author>
           <link>https://jmit.ca/services/</link>
           <guid>https://jmit.ca/services/</guid>
-          <description xml:base="https://jmit.ca/services/">&lt;div class=&quot;table-wrapper&quot;&gt;
+          <description xml:base="https://jmit.ca/services/">&lt;p&gt;On this page I outline the pre-defined services that I offer. If you are in need of an IT solution that hasn’t been listed on this page, feel free to reach out. We can talk about your needs, and I might be able to offer you a solution.&lt;&#x2F;p&gt;
+&lt;p&gt;Beyond my experience in IT services and repair, I have an extensive education in software development. I can build websites, internal tools, etc…&lt;&#x2F;p&gt;
+&lt;p&gt;If you are interested please contact me directly. See my &lt;a href=&quot;&#x2F;about&quot;&gt;about page&lt;&#x2F;a&gt; for more details.&lt;&#x2F;p&gt;
+&lt;div class=&quot;table-wrapper&quot;&gt;
 &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Service&lt;&#x2F;th&gt;&lt;th&gt;Price&lt;&#x2F;th&gt;&lt;th&gt;Rate&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
 &lt;tr&gt;&lt;td&gt;Bench Service&lt;&#x2F;td&gt;&lt;td&gt;$50 CAD&lt;&#x2F;td&gt;&lt;td&gt;hourly&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;tr&gt;&lt;td&gt;Remote Support&lt;&#x2F;td&gt;&lt;td&gt;$50 CAD&lt;&#x2F;td&gt;&lt;td&gt;hourly&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
@@ -231,15 +208,7 @@ Founded by James Mitchell in 2026.&quot;&gt;
 &lt;tr&gt;&lt;td&gt;Custom PC Assembly&lt;&#x2F;td&gt;&lt;td&gt;$150 CAD&lt;&#x2F;td&gt;&lt;td&gt;flat rate&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
 
-&lt;&#x2F;div&gt;
-&lt;p&gt;Remote support is preferred when possible. In-home visits are available in Haldimand &amp;amp; Norfolk County.&lt;&#x2F;p&gt;
-&lt;p&gt;Payment is due on completion of work. I accept the following:&lt;&#x2F;p&gt;
-&lt;ul&gt;
-&lt;li&gt;Interac e-Transfer ( &lt;a href=&quot;mailto:mail@jmit.ca&quot;&gt;mail@jmit.ca&lt;&#x2F;a&gt; )&lt;&#x2F;li&gt;
-&lt;li&gt;Cash&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-&lt;p&gt;I am available for work &lt;em&gt;9:00am&lt;&#x2F;em&gt; - &lt;em&gt;5:00pm&lt;&#x2F;em&gt;, every day of the week.&lt;&#x2F;p&gt;
-&lt;h3 id=&quot;bench-service&quot;&gt;Bench Service&lt;&#x2F;h3&gt;
+&lt;&#x2F;div&gt;&lt;h3 id=&quot;bench-service&quot;&gt;Bench Service&lt;&#x2F;h3&gt;
 &lt;p&gt;This is my base hourly rate for any work done in my workshop. This includes diagnostics, troubleshooting, repair, and configuration.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;remote-in-home-support&quot;&gt;Remote &amp;amp; In-Home Support&lt;&#x2F;h3&gt;
 &lt;p&gt;I can offer personal (non-commercial) IT support. This includes but is not limited to:&lt;&#x2F;p&gt;
@@ -254,10 +223,13 @@ Founded by James Mitchell in 2026.&quot;&gt;
 &lt;h3 id=&quot;custom-pc-assembly&quot;&gt;Custom PC Assembly&lt;&#x2F;h3&gt;
 &lt;p&gt;An end-to-end custom PC assembly service, offered at a flat-rate fee. I provide advice on part selection given your requirements and budget, and perform full assembly of your new machine, as well as initial software setup.&lt;&#x2F;p&gt;
 &lt;p&gt;I am very detail oriented, and strive to ensure that my customers are fully satisfied e.g. ensuring good cable management and RGB lighting effect installation.&lt;&#x2F;p&gt;
-&lt;h3 id=&quot;other-services&quot;&gt;Other Services&lt;&#x2F;h3&gt;
-&lt;p&gt;If you are in need of an IT solution that hasn’t been listed on this page, feel free to reach out. We can have a discussion about your needs, and I might be able to offer you a solution.&lt;&#x2F;p&gt;
-&lt;p&gt;Beyond my experience in IT support, I have an extensive education in software development. I can build websites, internal tools, etc…&lt;&#x2F;p&gt;
-&lt;p&gt;If you are interested please contact me directly. See the &lt;a href=&quot;&#x2F;contact&quot;&gt;contact pages&lt;&#x2F;a&gt; for more details.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;payment-and-operating-hours&quot;&gt;Payment and Operating Hours&lt;&#x2F;h3&gt;
+&lt;p&gt;Payment is due on completion of work. I accept the following:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Interac e-Transfer (via &lt;a href=&quot;mailto:mail@jmit.ca&quot;&gt;mail@jmit.ca&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
+&lt;li&gt;Cash&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;I am generally available for work &lt;em&gt;9:00am&lt;&#x2F;em&gt; - &lt;em&gt;5:00pm&lt;&#x2F;em&gt;, every day of the week. I am willing to make exceptions on a case-by-case basis.&lt;&#x2F;p&gt;
 </description>
       </item>
       <item>
